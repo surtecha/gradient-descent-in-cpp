@@ -1,0 +1,1224 @@
+optimizer,function,iteration,x,y
+vanilla gradient descent,quadratic,0,2,2
+vanilla gradient descent,quadratic,1,1.96,1.96
+vanilla gradient descent,quadratic,2,1.9208,1.9208
+vanilla gradient descent,quadratic,3,1.88238,1.88238
+vanilla gradient descent,quadratic,4,1.84474,1.84474
+vanilla gradient descent,quadratic,5,1.80784,1.80784
+vanilla gradient descent,quadratic,6,1.77168,1.77168
+vanilla gradient descent,quadratic,7,1.73625,1.73625
+vanilla gradient descent,quadratic,8,1.70153,1.70153
+vanilla gradient descent,quadratic,9,1.6675,1.6675
+vanilla gradient descent,quadratic,10,1.63415,1.63415
+vanilla gradient descent,quadratic,11,1.60146,1.60146
+vanilla gradient descent,quadratic,12,1.56943,1.56943
+vanilla gradient descent,quadratic,13,1.53804,1.53804
+vanilla gradient descent,quadratic,14,1.50728,1.50728
+vanilla gradient descent,quadratic,15,1.47714,1.47714
+vanilla gradient descent,quadratic,16,1.4476,1.4476
+vanilla gradient descent,quadratic,17,1.41864,1.41864
+vanilla gradient descent,quadratic,18,1.39027,1.39027
+vanilla gradient descent,quadratic,19,1.36247,1.36247
+vanilla gradient descent,quadratic,20,1.33522,1.33522
+vanilla gradient descent,quadratic,21,1.30851,1.30851
+vanilla gradient descent,quadratic,22,1.28234,1.28234
+vanilla gradient descent,quadratic,23,1.25669,1.25669
+vanilla gradient descent,quadratic,24,1.23156,1.23156
+vanilla gradient descent,quadratic,25,1.20693,1.20693
+vanilla gradient descent,quadratic,26,1.18279,1.18279
+vanilla gradient descent,quadratic,27,1.15914,1.15914
+vanilla gradient descent,quadratic,28,1.13595,1.13595
+vanilla gradient descent,quadratic,29,1.11323,1.11323
+vanilla gradient descent,quadratic,30,1.09097,1.09097
+vanilla gradient descent,quadratic,31,1.06915,1.06915
+vanilla gradient descent,quadratic,32,1.04777,1.04777
+vanilla gradient descent,quadratic,33,1.02681,1.02681
+vanilla gradient descent,quadratic,34,1.00627,1.00627
+vanilla gradient descent,quadratic,35,0.986149,0.986149
+vanilla gradient descent,quadratic,36,0.966426,0.966426
+vanilla gradient descent,quadratic,37,0.947098,0.947098
+vanilla gradient descent,quadratic,38,0.928156,0.928156
+vanilla gradient descent,quadratic,39,0.909593,0.909593
+vanilla gradient descent,quadratic,40,0.891401,0.891401
+vanilla gradient descent,quadratic,41,0.873573,0.873573
+vanilla gradient descent,quadratic,42,0.856101,0.856101
+vanilla gradient descent,quadratic,43,0.838979,0.838979
+vanilla gradient descent,quadratic,44,0.8222,0.8222
+vanilla gradient descent,quadratic,45,0.805756,0.805756
+vanilla gradient descent,quadratic,46,0.789641,0.789641
+vanilla gradient descent,quadratic,47,0.773848,0.773848
+vanilla gradient descent,quadratic,48,0.758371,0.758371
+vanilla gradient descent,quadratic,49,0.743203,0.743203
+vanilla gradient descent,quadratic,50,0.728339,0.728339
+vanilla gradient descent,quadratic,51,0.713773,0.713773
+vanilla gradient descent,quadratic,52,0.699497,0.699497
+vanilla gradient descent,quadratic,53,0.685507,0.685507
+vanilla gradient descent,quadratic,54,0.671797,0.671797
+vanilla gradient descent,quadratic,55,0.658361,0.658361
+vanilla gradient descent,quadratic,56,0.645194,0.645194
+vanilla gradient descent,quadratic,57,0.63229,0.63229
+vanilla gradient descent,quadratic,58,0.619644,0.619644
+vanilla gradient descent,quadratic,59,0.607251,0.607251
+vanilla gradient descent,quadratic,60,0.595106,0.595106
+vanilla gradient descent,quadratic,61,0.583204,0.583204
+vanilla gradient descent,quadratic,62,0.57154,0.57154
+vanilla gradient descent,quadratic,63,0.560109,0.560109
+vanilla gradient descent,quadratic,64,0.548907,0.548907
+vanilla gradient descent,quadratic,65,0.537929,0.537929
+vanilla gradient descent,quadratic,66,0.52717,0.52717
+vanilla gradient descent,quadratic,67,0.516627,0.516627
+vanilla gradient descent,quadratic,68,0.506294,0.506294
+vanilla gradient descent,quadratic,69,0.496169,0.496169
+vanilla gradient descent,quadratic,70,0.486245,0.486245
+vanilla gradient descent,quadratic,71,0.47652,0.47652
+vanilla gradient descent,quadratic,72,0.46699,0.46699
+vanilla gradient descent,quadratic,73,0.45765,0.45765
+vanilla gradient descent,quadratic,74,0.448497,0.448497
+vanilla gradient descent,quadratic,75,0.439527,0.439527
+vanilla gradient descent,quadratic,76,0.430737,0.430737
+vanilla gradient descent,quadratic,77,0.422122,0.422122
+vanilla gradient descent,quadratic,78,0.413679,0.413679
+vanilla gradient descent,quadratic,79,0.405406,0.405406
+vanilla gradient descent,quadratic,80,0.397298,0.397298
+vanilla gradient descent,quadratic,81,0.389352,0.389352
+vanilla gradient descent,quadratic,82,0.381565,0.381565
+vanilla gradient descent,quadratic,83,0.373933,0.373933
+vanilla gradient descent,quadratic,84,0.366455,0.366455
+vanilla gradient descent,quadratic,85,0.359126,0.359126
+vanilla gradient descent,quadratic,86,0.351943,0.351943
+vanilla gradient descent,quadratic,87,0.344904,0.344904
+vanilla gradient descent,quadratic,88,0.338006,0.338006
+vanilla gradient descent,quadratic,89,0.331246,0.331246
+vanilla gradient descent,quadratic,90,0.324621,0.324621
+vanilla gradient descent,quadratic,91,0.318129,0.318129
+vanilla gradient descent,quadratic,92,0.311766,0.311766
+vanilla gradient descent,quadratic,93,0.305531,0.305531
+vanilla gradient descent,quadratic,94,0.29942,0.29942
+vanilla gradient descent,quadratic,95,0.293432,0.293432
+vanilla gradient descent,quadratic,96,0.287563,0.287563
+vanilla gradient descent,quadratic,97,0.281812,0.281812
+vanilla gradient descent,quadratic,98,0.276176,0.276176
+vanilla gradient descent,quadratic,99,0.270652,0.270652
+vanilla gradient descent,quadratic,100,0.265239,0.265239
+vanilla gradient descent,quadratic,101,0.259934,0.259934
+vanilla gradient descent,quadratic,102,0.254736,0.254736
+vanilla gradient descent,quadratic,103,0.249641,0.249641
+vanilla gradient descent,quadratic,104,0.244648,0.244648
+vanilla gradient descent,quadratic,105,0.239755,0.239755
+vanilla gradient descent,quadratic,106,0.23496,0.23496
+vanilla gradient descent,quadratic,107,0.230261,0.230261
+vanilla gradient descent,quadratic,108,0.225656,0.225656
+vanilla gradient descent,quadratic,109,0.221143,0.221143
+vanilla gradient descent,quadratic,110,0.21672,0.21672
+vanilla gradient descent,quadratic,111,0.212385,0.212385
+vanilla gradient descent,quadratic,112,0.208138,0.208138
+vanilla gradient descent,quadratic,113,0.203975,0.203975
+vanilla gradient descent,quadratic,114,0.199895,0.199895
+vanilla gradient descent,quadratic,115,0.195897,0.195897
+vanilla gradient descent,quadratic,116,0.191979,0.191979
+vanilla gradient descent,quadratic,117,0.18814,0.18814
+vanilla gradient descent,quadratic,118,0.184377,0.184377
+vanilla gradient descent,quadratic,119,0.18069,0.18069
+vanilla gradient descent,quadratic,120,0.177076,0.177076
+vanilla gradient descent,quadratic,121,0.173534,0.173534
+vanilla gradient descent,quadratic,122,0.170064,0.170064
+vanilla gradient descent,quadratic,123,0.166662,0.166662
+vanilla gradient descent,quadratic,124,0.163329,0.163329
+vanilla gradient descent,quadratic,125,0.160062,0.160062
+vanilla gradient descent,quadratic,126,0.156861,0.156861
+vanilla gradient descent,quadratic,127,0.153724,0.153724
+vanilla gradient descent,quadratic,128,0.150649,0.150649
+vanilla gradient descent,quadratic,129,0.147637,0.147637
+vanilla gradient descent,quadratic,130,0.144684,0.144684
+vanilla gradient descent,quadratic,131,0.14179,0.14179
+vanilla gradient descent,quadratic,132,0.138954,0.138954
+vanilla gradient descent,quadratic,133,0.136175,0.136175
+vanilla gradient descent,quadratic,134,0.133452,0.133452
+vanilla gradient descent,quadratic,135,0.130783,0.130783
+vanilla gradient descent,quadratic,136,0.128167,0.128167
+vanilla gradient descent,quadratic,137,0.125604,0.125604
+vanilla gradient descent,quadratic,138,0.123092,0.123092
+vanilla gradient descent,quadratic,139,0.12063,0.12063
+vanilla gradient descent,quadratic,140,0.118217,0.118217
+vanilla gradient descent,quadratic,141,0.115853,0.115853
+vanilla gradient descent,quadratic,142,0.113536,0.113536
+vanilla gradient descent,quadratic,143,0.111265,0.111265
+vanilla gradient descent,quadratic,144,0.10904,0.10904
+vanilla gradient descent,quadratic,145,0.106859,0.106859
+vanilla gradient descent,quadratic,146,0.104722,0.104722
+vanilla gradient descent,quadratic,147,0.102627,0.102627
+vanilla gradient descent,quadratic,148,0.100575,0.100575
+vanilla gradient descent,quadratic,149,0.0985633,0.0985633
+vanilla gradient descent,quadratic,150,0.096592,0.096592
+vanilla gradient descent,quadratic,151,0.0946602,0.0946602
+vanilla gradient descent,quadratic,152,0.092767,0.092767
+vanilla gradient descent,quadratic,153,0.0909117,0.0909117
+vanilla gradient descent,quadratic,154,0.0890934,0.0890934
+vanilla gradient descent,quadratic,155,0.0873116,0.0873116
+vanilla gradient descent,quadratic,156,0.0855653,0.0855653
+vanilla gradient descent,quadratic,157,0.083854,0.083854
+vanilla gradient descent,quadratic,158,0.0821769,0.0821769
+vanilla gradient descent,quadratic,159,0.0805334,0.0805334
+vanilla gradient descent,quadratic,160,0.0789227,0.0789227
+vanilla gradient descent,quadratic,161,0.0773443,0.0773443
+vanilla gradient descent,quadratic,162,0.0757974,0.0757974
+vanilla gradient descent,quadratic,163,0.0742814,0.0742814
+vanilla gradient descent,quadratic,164,0.0727958,0.0727958
+vanilla gradient descent,quadratic,165,0.0713399,0.0713399
+vanilla gradient descent,quadratic,166,0.0699131,0.0699131
+vanilla gradient descent,quadratic,167,0.0685148,0.0685148
+vanilla gradient descent,quadratic,168,0.0671445,0.0671445
+vanilla gradient descent,quadratic,169,0.0658017,0.0658017
+vanilla gradient descent,quadratic,170,0.0644856,0.0644856
+vanilla gradient descent,quadratic,171,0.0631959,0.0631959
+vanilla gradient descent,quadratic,172,0.061932,0.061932
+vanilla gradient descent,quadratic,173,0.0606933,0.0606933
+vanilla gradient descent,quadratic,174,0.0594795,0.0594795
+vanilla gradient descent,quadratic,175,0.0582899,0.0582899
+vanilla gradient descent,quadratic,176,0.0571241,0.0571241
+vanilla gradient descent,quadratic,177,0.0559816,0.0559816
+vanilla gradient descent,quadratic,178,0.054862,0.054862
+vanilla gradient descent,quadratic,179,0.0537647,0.0537647
+vanilla gradient descent,quadratic,180,0.0526894,0.0526894
+vanilla gradient descent,quadratic,181,0.0516357,0.0516357
+vanilla gradient descent,quadratic,182,0.0506029,0.0506029
+vanilla gradient descent,quadratic,183,0.0495909,0.0495909
+vanilla gradient descent,quadratic,184,0.0485991,0.0485991
+vanilla gradient descent,quadratic,185,0.0476271,0.0476271
+vanilla gradient descent,quadratic,186,0.0466745,0.0466745
+vanilla gradient descent,quadratic,187,0.0457411,0.0457411
+vanilla gradient descent,quadratic,188,0.0448262,0.0448262
+vanilla gradient descent,quadratic,189,0.0439297,0.0439297
+vanilla gradient descent,quadratic,190,0.0430511,0.0430511
+vanilla gradient descent,quadratic,191,0.0421901,0.0421901
+vanilla gradient descent,quadratic,192,0.0413463,0.0413463
+vanilla gradient descent,quadratic,193,0.0405194,0.0405194
+vanilla gradient descent,quadratic,194,0.039709,0.039709
+vanilla gradient descent,quadratic,195,0.0389148,0.0389148
+vanilla gradient descent,quadratic,196,0.0381365,0.0381365
+vanilla gradient descent,quadratic,197,0.0373738,0.0373738
+vanilla gradient descent,quadratic,198,0.0366263,0.0366263
+vanilla gradient descent,quadratic,199,0.0358938,0.0358938
+vanilla gradient descent,quadratic,200,0.0351759,0.0351759
+vanilla gradient descent,quadratic,201,0.0344724,0.0344724
+vanilla gradient descent,quadratic,202,0.0337829,0.0337829
+vanilla gradient descent,quadratic,203,0.0331073,0.0331073
+vanilla gradient descent,quadratic,204,0.0324451,0.0324451
+vanilla gradient descent,quadratic,205,0.0317962,0.0317962
+vanilla gradient descent,quadratic,206,0.0311603,0.0311603
+vanilla gradient descent,quadratic,207,0.0305371,0.0305371
+vanilla gradient descent,quadratic,208,0.0299263,0.0299263
+vanilla gradient descent,quadratic,209,0.0293278,0.0293278
+vanilla gradient descent,quadratic,210,0.0287413,0.0287413
+vanilla gradient descent,quadratic,211,0.0281664,0.0281664
+vanilla gradient descent,quadratic,212,0.0276031,0.0276031
+vanilla gradient descent,quadratic,213,0.027051,0.027051
+vanilla gradient descent,quadratic,214,0.02651,0.02651
+vanilla gradient descent,quadratic,215,0.0259798,0.0259798
+vanilla gradient descent,quadratic,216,0.0254602,0.0254602
+vanilla gradient descent,quadratic,217,0.024951,0.024951
+vanilla gradient descent,quadratic,218,0.024452,0.024452
+vanilla gradient descent,quadratic,219,0.023963,0.023963
+vanilla gradient descent,quadratic,220,0.0234837,0.0234837
+vanilla gradient descent,quadratic,221,0.023014,0.023014
+vanilla gradient descent,quadratic,222,0.0225538,0.0225538
+vanilla gradient descent,quadratic,223,0.0221027,0.0221027
+vanilla gradient descent,quadratic,224,0.0216606,0.0216606
+vanilla gradient descent,quadratic,225,0.0212274,0.0212274
+vanilla gradient descent,quadratic,226,0.0208029,0.0208029
+vanilla gradient descent,quadratic,227,0.0203868,0.0203868
+vanilla gradient descent,quadratic,228,0.0199791,0.0199791
+vanilla gradient descent,quadratic,229,0.0195795,0.0195795
+vanilla gradient descent,quadratic,230,0.0191879,0.0191879
+vanilla gradient descent,quadratic,231,0.0188041,0.0188041
+vanilla gradient descent,quadratic,232,0.0184281,0.0184281
+vanilla gradient descent,quadratic,233,0.0180595,0.0180595
+vanilla gradient descent,quadratic,234,0.0176983,0.0176983
+vanilla gradient descent,quadratic,235,0.0173443,0.0173443
+vanilla gradient descent,quadratic,236,0.0169975,0.0169975
+vanilla gradient descent,quadratic,237,0.0166575,0.0166575
+vanilla gradient descent,quadratic,238,0.0163244,0.0163244
+vanilla gradient descent,quadratic,239,0.0159979,0.0159979
+vanilla gradient descent,quadratic,240,0.0156779,0.0156779
+vanilla gradient descent,quadratic,241,0.0153644,0.0153644
+vanilla gradient descent,quadratic,242,0.0150571,0.0150571
+vanilla gradient descent,quadratic,243,0.0147559,0.0147559
+vanilla gradient descent,quadratic,244,0.0144608,0.0144608
+vanilla gradient descent,quadratic,245,0.0141716,0.0141716
+vanilla gradient descent,quadratic,246,0.0138882,0.0138882
+vanilla gradient descent,quadratic,247,0.0136104,0.0136104
+vanilla gradient descent,quadratic,248,0.0133382,0.0133382
+vanilla gradient descent,quadratic,249,0.0130714,0.0130714
+vanilla gradient descent,quadratic,250,0.01281,0.01281
+vanilla gradient descent,quadratic,251,0.0125538,0.0125538
+vanilla gradient descent,quadratic,252,0.0123027,0.0123027
+vanilla gradient descent,quadratic,253,0.0120567,0.0120567
+vanilla gradient descent,quadratic,254,0.0118155,0.0118155
+vanilla gradient descent,quadratic,255,0.0115792,0.0115792
+vanilla gradient descent,quadratic,256,0.0113476,0.0113476
+vanilla gradient descent,quadratic,257,0.0111207,0.0111207
+vanilla gradient descent,quadratic,258,0.0108983,0.0108983
+vanilla gradient descent,quadratic,259,0.0106803,0.0106803
+vanilla gradient descent,quadratic,260,0.0104667,0.0104667
+vanilla gradient descent,quadratic,261,0.0102574,0.0102574
+vanilla gradient descent,quadratic,262,0.0100522,0.0100522
+vanilla gradient descent,quadratic,263,0.00985117,0.00985117
+vanilla gradient descent,quadratic,264,0.00965415,0.00965415
+vanilla gradient descent,quadratic,265,0.00946107,0.00946107
+vanilla gradient descent,quadratic,266,0.00927184,0.00927184
+vanilla gradient descent,quadratic,267,0.00908641,0.00908641
+vanilla gradient descent,quadratic,268,0.00890468,0.00890468
+vanilla gradient descent,quadratic,269,0.00872659,0.00872659
+vanilla gradient descent,quadratic,270,0.00855205,0.00855205
+vanilla gradient descent,quadratic,271,0.00838101,0.00838101
+vanilla gradient descent,quadratic,272,0.00821339,0.00821339
+vanilla gradient descent,quadratic,273,0.00804912,0.00804912
+vanilla gradient descent,quadratic,274,0.00788814,0.00788814
+vanilla gradient descent,quadratic,275,0.00773038,0.00773038
+vanilla gradient descent,quadratic,276,0.00757577,0.00757577
+vanilla gradient descent,quadratic,277,0.00742426,0.00742426
+vanilla gradient descent,quadratic,278,0.00727577,0.00727577
+vanilla gradient descent,quadratic,279,0.00713026,0.00713026
+vanilla gradient descent,quadratic,280,0.00698765,0.00698765
+vanilla gradient descent,quadratic,281,0.0068479,0.0068479
+vanilla gradient descent,quadratic,282,0.00671094,0.00671094
+vanilla gradient descent,quadratic,283,0.00657672,0.00657672
+vanilla gradient descent,quadratic,284,0.00644519,0.00644519
+vanilla gradient descent,quadratic,285,0.00631628,0.00631628
+vanilla gradient descent,quadratic,286,0.00618996,0.00618996
+vanilla gradient descent,quadratic,287,0.00606616,0.00606616
+vanilla gradient descent,quadratic,288,0.00594483,0.00594483
+vanilla gradient descent,quadratic,289,0.00582594,0.00582594
+vanilla gradient descent,quadratic,290,0.00570942,0.00570942
+vanilla gradient descent,quadratic,291,0.00559523,0.00559523
+vanilla gradient descent,quadratic,292,0.00548333,0.00548333
+vanilla gradient descent,quadratic,293,0.00537366,0.00537366
+vanilla gradient descent,quadratic,294,0.00526619,0.00526619
+vanilla gradient descent,quadratic,295,0.00516086,0.00516086
+vanilla gradient descent,quadratic,296,0.00505765,0.00505765
+vanilla gradient descent,quadratic,297,0.00495649,0.00495649
+vanilla gradient descent,quadratic,298,0.00485736,0.00485736
+vanilla gradient descent,quadratic,299,0.00476022,0.00476022
+vanilla gradient descent,quadratic,300,0.00466501,0.00466501
+vanilla gradient descent,quadratic,301,0.00457171,0.00457171
+vanilla gradient descent,quadratic,302,0.00448028,0.00448028
+vanilla gradient descent,quadratic,303,0.00439067,0.00439067
+vanilla gradient descent,quadratic,304,0.00430286,0.00430286
+vanilla gradient descent,quadratic,305,0.0042168,0.0042168
+vanilla gradient descent,quadratic,306,0.00413246,0.00413246
+vanilla gradient descent,quadratic,307,0.00404982,0.00404982
+vanilla gradient descent,quadratic,308,0.00396882,0.00396882
+vanilla gradient descent,quadratic,309,0.00388944,0.00388944
+vanilla gradient descent,quadratic,310,0.00381165,0.00381165
+vanilla gradient descent,quadratic,311,0.00373542,0.00373542
+vanilla gradient descent,quadratic,312,0.00366071,0.00366071
+vanilla gradient descent,quadratic,313,0.0035875,0.0035875
+vanilla gradient descent,quadratic,314,0.00351575,0.00351575
+vanilla gradient descent,quadratic,315,0.00344543,0.00344543
+vanilla gradient descent,quadratic,316,0.00337652,0.00337652
+vanilla gradient descent,quadratic,317,0.00330899,0.00330899
+vanilla gradient descent,quadratic,318,0.00324281,0.00324281
+vanilla gradient descent,quadratic,319,0.00317796,0.00317796
+vanilla gradient descent,quadratic,320,0.0031144,0.0031144
+vanilla gradient descent,quadratic,321,0.00305211,0.00305211
+vanilla gradient descent,quadratic,322,0.00299107,0.00299107
+vanilla gradient descent,quadratic,323,0.00293125,0.00293125
+vanilla gradient descent,quadratic,324,0.00287262,0.00287262
+vanilla gradient descent,quadratic,325,0.00281517,0.00281517
+vanilla gradient descent,quadratic,326,0.00275887,0.00275887
+vanilla gradient descent,quadratic,327,0.00270369,0.00270369
+vanilla gradient descent,quadratic,328,0.00264962,0.00264962
+vanilla gradient descent,quadratic,329,0.00259662,0.00259662
+vanilla gradient descent,quadratic,330,0.00254469,0.00254469
+vanilla gradient descent,quadratic,331,0.0024938,0.0024938
+vanilla gradient descent,quadratic,332,0.00244392,0.00244392
+vanilla gradient descent,quadratic,333,0.00239504,0.00239504
+vanilla gradient descent,quadratic,334,0.00234714,0.00234714
+vanilla gradient descent,quadratic,335,0.0023002,0.0023002
+vanilla gradient descent,quadratic,336,0.00225419,0.00225419
+vanilla gradient descent,quadratic,337,0.00220911,0.00220911
+vanilla gradient descent,quadratic,338,0.00216493,0.00216493
+vanilla gradient descent,quadratic,339,0.00212163,0.00212163
+vanilla gradient descent,quadratic,340,0.0020792,0.0020792
+vanilla gradient descent,quadratic,341,0.00203761,0.00203761
+vanilla gradient descent,quadratic,342,0.00199686,0.00199686
+vanilla gradient descent,quadratic,343,0.00195692,0.00195692
+vanilla gradient descent,quadratic,344,0.00191779,0.00191779
+vanilla gradient descent,quadratic,345,0.00187943,0.00187943
+vanilla gradient descent,quadratic,346,0.00184184,0.00184184
+vanilla gradient descent,quadratic,347,0.001805,0.001805
+vanilla gradient descent,quadratic,348,0.0017689,0.0017689
+vanilla gradient descent,quadratic,349,0.00173353,0.00173353
+vanilla gradient descent,quadratic,350,0.00169886,0.00169886
+vanilla gradient descent,quadratic,351,0.00166488,0.00166488
+vanilla gradient descent,quadratic,352,0.00163158,0.00163158
+vanilla gradient descent,quadratic,353,0.00159895,0.00159895
+vanilla gradient descent,quadratic,354,0.00156697,0.00156697
+vanilla gradient descent,quadratic,355,0.00153563,0.00153563
+vanilla gradient descent,quadratic,356,0.00150492,0.00150492
+vanilla gradient descent,quadratic,357,0.00147482,0.00147482
+vanilla gradient descent,quadratic,358,0.00144532,0.00144532
+vanilla gradient descent,quadratic,359,0.00141642,0.00141642
+vanilla gradient descent,quadratic,360,0.00138809,0.00138809
+vanilla gradient descent,quadratic,361,0.00136033,0.00136033
+vanilla gradient descent,quadratic,362,0.00133312,0.00133312
+vanilla gradient descent,quadratic,363,0.00130646,0.00130646
+vanilla gradient descent,quadratic,364,0.00128033,0.00128033
+vanilla gradient descent,quadratic,365,0.00125472,0.00125472
+vanilla gradient descent,quadratic,366,0.00122963,0.00122963
+vanilla gradient descent,quadratic,367,0.00120504,0.00120504
+vanilla gradient descent,quadratic,368,0.00118093,0.00118093
+vanilla gradient descent,quadratic,369,0.00115732,0.00115732
+vanilla gradient descent,quadratic,370,0.00113417,0.00113417
+vanilla gradient descent,quadratic,371,0.00111149,0.00111149
+vanilla gradient descent,quadratic,372,0.00108926,0.00108926
+vanilla gradient descent,quadratic,373,0.00106747,0.00106747
+vanilla gradient descent,quadratic,374,0.00104612,0.00104612
+vanilla gradient descent,quadratic,375,0.0010252,0.0010252
+vanilla gradient descent,quadratic,376,0.0010047,0.0010047
+vanilla gradient descent,quadratic,377,0.000984602,0.000984602
+vanilla gradient descent,quadratic,378,0.00096491,0.00096491
+vanilla gradient descent,quadratic,379,0.000945611,0.000945611
+vanilla gradient descent,quadratic,380,0.000926699,0.000926699
+vanilla gradient descent,quadratic,381,0.000908165,0.000908165
+vanilla gradient descent,quadratic,382,0.000890002,0.000890002
+vanilla gradient descent,quadratic,383,0.000872202,0.000872202
+vanilla gradient descent,quadratic,384,0.000854758,0.000854758
+vanilla gradient descent,quadratic,385,0.000837663,0.000837663
+vanilla gradient descent,quadratic,386,0.000820909,0.000820909
+vanilla gradient descent,quadratic,387,0.000804491,0.000804491
+vanilla gradient descent,quadratic,388,0.000788401,0.000788401
+vanilla gradient descent,quadratic,389,0.000772633,0.000772633
+vanilla gradient descent,quadratic,390,0.000757181,0.000757181
+vanilla gradient descent,quadratic,391,0.000742037,0.000742037
+vanilla gradient descent,quadratic,392,0.000727196,0.000727196
+vanilla gradient descent,quadratic,393,0.000712652,0.000712652
+vanilla gradient descent,quadratic,394,0.000698399,0.000698399
+vanilla gradient descent,quadratic,395,0.000684431,0.000684431
+vanilla gradient descent,quadratic,396,0.000670743,0.000670743
+vanilla gradient descent,quadratic,397,0.000657328,0.000657328
+vanilla gradient descent,quadratic,398,0.000644181,0.000644181
+vanilla gradient descent,quadratic,399,0.000631298,0.000631298
+vanilla gradient descent,quadratic,400,0.000618672,0.000618672
+vanilla gradient descent,quadratic,401,0.000606298,0.000606298
+vanilla gradient descent,quadratic,402,0.000594172,0.000594172
+vanilla gradient descent,quadratic,403,0.000582289,0.000582289
+vanilla gradient descent,quadratic,404,0.000570643,0.000570643
+vanilla gradient descent,quadratic,405,0.00055923,0.00055923
+vanilla gradient descent,quadratic,406,0.000548046,0.000548046
+vanilla gradient descent,quadratic,407,0.000537085,0.000537085
+vanilla gradient descent,quadratic,408,0.000526343,0.000526343
+vanilla gradient descent,quadratic,409,0.000515816,0.000515816
+vanilla gradient descent,quadratic,410,0.0005055,0.0005055
+vanilla gradient descent,quadratic,411,0.00049539,0.00049539
+vanilla gradient descent,quadratic,412,0.000485482,0.000485482
+vanilla gradient descent,quadratic,413,0.000475772,0.000475772
+vanilla gradient descent,quadratic,414,0.000466257,0.000466257
+vanilla gradient descent,quadratic,415,0.000456932,0.000456932
+vanilla gradient descent,quadratic,416,0.000447793,0.000447793
+vanilla gradient descent,quadratic,417,0.000438837,0.000438837
+vanilla gradient descent,quadratic,418,0.000430061,0.000430061
+vanilla gradient descent,quadratic,419,0.000421459,0.000421459
+vanilla gradient descent,quadratic,420,0.00041303,0.00041303
+vanilla gradient descent,quadratic,421,0.00040477,0.00040477
+vanilla gradient descent,quadratic,422,0.000396674,0.000396674
+vanilla gradient descent,quadratic,423,0.000388741,0.000388741
+vanilla gradient descent,quadratic,424,0.000380966,0.000380966
+vanilla gradient descent,quadratic,425,0.000373347,0.000373347
+vanilla gradient descent,quadratic,426,0.00036588,0.00036588
+vanilla gradient descent,quadratic,427,0.000358562,0.000358562
+vanilla gradient descent,quadratic,428,0.000351391,0.000351391
+vanilla gradient descent,quadratic,429,0.000344363,0.000344363
+vanilla gradient descent,quadratic,430,0.000337476,0.000337476
+vanilla gradient descent,quadratic,431,0.000330726,0.000330726
+vanilla gradient descent,quadratic,432,0.000324112,0.000324112
+vanilla gradient descent,quadratic,433,0.000317629,0.000317629
+vanilla gradient descent,quadratic,434,0.000311277,0.000311277
+vanilla gradient descent,quadratic,435,0.000305051,0.000305051
+vanilla gradient descent,quadratic,436,0.00029895,0.00029895
+vanilla gradient descent,quadratic,437,0.000292971,0.000292971
+vanilla gradient descent,quadratic,438,0.000287112,0.000287112
+vanilla gradient descent,quadratic,439,0.00028137,0.00028137
+vanilla gradient descent,quadratic,440,0.000275742,0.000275742
+vanilla gradient descent,quadratic,441,0.000270227,0.000270227
+vanilla gradient descent,quadratic,442,0.000264823,0.000264823
+vanilla gradient descent,quadratic,443,0.000259526,0.000259526
+vanilla gradient descent,quadratic,444,0.000254336,0.000254336
+vanilla gradient descent,quadratic,445,0.000249249,0.000249249
+vanilla gradient descent,quadratic,446,0.000244264,0.000244264
+vanilla gradient descent,quadratic,447,0.000239379,0.000239379
+vanilla gradient descent,quadratic,448,0.000234591,0.000234591
+vanilla gradient descent,quadratic,449,0.000229899,0.000229899
+vanilla gradient descent,quadratic,450,0.000225301,0.000225301
+vanilla gradient descent,quadratic,451,0.000220795,0.000220795
+vanilla gradient descent,quadratic,452,0.00021638,0.00021638
+vanilla gradient descent,quadratic,453,0.000212052,0.000212052
+vanilla gradient descent,quadratic,454,0.000207811,0.000207811
+vanilla gradient descent,quadratic,455,0.000203655,0.000203655
+vanilla gradient descent,quadratic,456,0.000199582,0.000199582
+vanilla gradient descent,quadratic,457,0.00019559,0.00019559
+vanilla gradient descent,quadratic,458,0.000191678,0.000191678
+vanilla gradient descent,quadratic,459,0.000187845,0.000187845
+vanilla gradient descent,quadratic,460,0.000184088,0.000184088
+vanilla gradient descent,quadratic,461,0.000180406,0.000180406
+vanilla gradient descent,quadratic,462,0.000176798,0.000176798
+vanilla gradient descent,quadratic,463,0.000173262,0.000173262
+vanilla gradient descent,quadratic,464,0.000169797,0.000169797
+vanilla gradient descent,quadratic,465,0.000166401,0.000166401
+vanilla gradient descent,quadratic,466,0.000163073,0.000163073
+vanilla gradient descent,quadratic,467,0.000159811,0.000159811
+vanilla gradient descent,quadratic,468,0.000156615,0.000156615
+vanilla gradient descent,quadratic,469,0.000153483,0.000153483
+vanilla gradient descent,quadratic,470,0.000150413,0.000150413
+vanilla gradient descent,quadratic,471,0.000147405,0.000147405
+vanilla gradient descent,quadratic,472,0.000144457,0.000144457
+vanilla gradient descent,quadratic,473,0.000141568,0.000141568
+vanilla gradient descent,quadratic,474,0.000138736,0.000138736
+vanilla gradient descent,quadratic,475,0.000135962,0.000135962
+vanilla gradient descent,quadratic,476,0.000133242,0.000133242
+vanilla gradient descent,quadratic,477,0.000130577,0.000130577
+vanilla gradient descent,quadratic,478,0.000127966,0.000127966
+vanilla gradient descent,quadratic,479,0.000125407,0.000125407
+vanilla gradient descent,quadratic,480,0.000122898,0.000122898
+vanilla gradient descent,quadratic,481,0.00012044,0.00012044
+vanilla gradient descent,quadratic,482,0.000118032,0.000118032
+vanilla gradient descent,quadratic,483,0.000115671,0.000115671
+vanilla gradient descent,quadratic,484,0.000113358,0.000113358
+vanilla gradient descent,quadratic,485,0.00011109,0.00011109
+vanilla gradient descent,quadratic,486,0.000108869,0.000108869
+vanilla gradient descent,quadratic,487,0.000106691,0.000106691
+vanilla gradient descent,quadratic,488,0.000104557,0.000104557
+vanilla gradient descent,quadratic,489,0.000102466,0.000102466
+vanilla gradient descent,quadratic,490,0.000100417,0.000100417
+vanilla gradient descent,quadratic,491,9.84086e-05,9.84086e-05
+vanilla gradient descent,quadratic,492,9.64405e-05,9.64405e-05
+vanilla gradient descent,quadratic,493,9.45116e-05,9.45116e-05
+vanilla gradient descent,quadratic,494,9.26214e-05,9.26214e-05
+vanilla gradient descent,quadratic,495,9.0769e-05,9.0769e-05
+vanilla gradient descent,quadratic,496,8.89536e-05,8.89536e-05
+vanilla gradient descent,quadratic,497,8.71745e-05,8.71745e-05
+vanilla gradient descent,quadratic,498,8.5431e-05,8.5431e-05
+vanilla gradient descent,quadratic,499,8.37224e-05,8.37224e-05
+vanilla gradient descent,quadratic,500,8.2048e-05,8.2048e-05
+vanilla gradient descent,quadratic,501,8.0407e-05,8.0407e-05
+vanilla gradient descent,quadratic,502,7.87989e-05,7.87989e-05
+vanilla gradient descent,quadratic,503,7.72229e-05,7.72229e-05
+vanilla gradient descent,quadratic,504,7.56784e-05,7.56784e-05
+vanilla gradient descent,quadratic,505,7.41649e-05,7.41649e-05
+vanilla gradient descent,quadratic,506,7.26816e-05,7.26816e-05
+vanilla gradient descent,quadratic,507,7.12279e-05,7.12279e-05
+vanilla gradient descent,quadratic,508,6.98034e-05,6.98034e-05
+vanilla gradient descent,quadratic,509,6.84073e-05,6.84073e-05
+vanilla gradient descent,quadratic,510,6.70392e-05,6.70392e-05
+vanilla gradient descent,quadratic,511,6.56984e-05,6.56984e-05
+vanilla gradient descent,quadratic,512,6.43844e-05,6.43844e-05
+vanilla gradient descent,quadratic,513,6.30967e-05,6.30967e-05
+vanilla gradient descent,quadratic,514,6.18348e-05,6.18348e-05
+vanilla gradient descent,quadratic,515,6.05981e-05,6.05981e-05
+vanilla gradient descent,quadratic,516,5.93861e-05,5.93861e-05
+vanilla gradient descent,quadratic,517,5.81984e-05,5.81984e-05
+vanilla gradient descent,quadratic,518,5.70344e-05,5.70344e-05
+vanilla gradient descent,quadratic,519,5.58938e-05,5.58938e-05
+vanilla gradient descent,quadratic,520,5.47759e-05,5.47759e-05
+vanilla gradient descent,quadratic,521,5.36804e-05,5.36804e-05
+vanilla gradient descent,quadratic,522,5.26068e-05,5.26068e-05
+vanilla gradient descent,quadratic,523,5.15546e-05,5.15546e-05
+vanilla gradient descent,quadratic,524,5.05235e-05,5.05235e-05
+vanilla gradient descent,quadratic,525,4.95131e-05,4.95131e-05
+vanilla gradient descent,quadratic,526,4.85228e-05,4.85228e-05
+vanilla gradient descent,quadratic,527,4.75523e-05,4.75523e-05
+vanilla gradient descent,quadratic,528,4.66013e-05,4.66013e-05
+vanilla gradient descent,quadratic,529,4.56693e-05,4.56693e-05
+vanilla gradient descent,quadratic,530,4.47559e-05,4.47559e-05
+vanilla gradient descent,quadratic,531,4.38608e-05,4.38608e-05
+vanilla gradient descent,quadratic,532,4.29835e-05,4.29835e-05
+vanilla gradient descent,quadratic,533,4.21239e-05,4.21239e-05
+vanilla gradient descent,quadratic,534,4.12814e-05,4.12814e-05
+vanilla gradient descent,quadratic,535,4.04558e-05,4.04558e-05
+vanilla gradient descent,quadratic,536,3.96467e-05,3.96467e-05
+vanilla gradient descent,quadratic,537,3.88537e-05,3.88537e-05
+vanilla gradient descent,quadratic,538,3.80766e-05,3.80766e-05
+vanilla gradient descent,quadratic,539,3.73151e-05,3.73151e-05
+vanilla gradient descent,quadratic,540,3.65688e-05,3.65688e-05
+vanilla gradient descent,quadratic,541,3.58374e-05,3.58374e-05
+vanilla gradient descent,quadratic,542,3.51207e-05,3.51207e-05
+vanilla gradient descent,quadratic,543,3.44183e-05,3.44183e-05
+vanilla gradient descent,quadratic,544,3.37299e-05,3.37299e-05
+vanilla gradient descent,quadratic,545,3.30553e-05,3.30553e-05
+vanilla gradient descent,quadratic,546,3.23942e-05,3.23942e-05
+vanilla gradient descent,quadratic,547,3.17463e-05,3.17463e-05
+vanilla gradient descent,quadratic,548,3.11114e-05,3.11114e-05
+vanilla gradient descent,quadratic,549,3.04892e-05,3.04892e-05
+vanilla gradient descent,quadratic,550,2.98794e-05,2.98794e-05
+vanilla gradient descent,quadratic,551,2.92818e-05,2.92818e-05
+vanilla gradient descent,quadratic,552,2.86962e-05,2.86962e-05
+vanilla gradient descent,quadratic,553,2.81222e-05,2.81222e-05
+vanilla gradient descent,quadratic,554,2.75598e-05,2.75598e-05
+vanilla gradient descent,quadratic,555,2.70086e-05,2.70086e-05
+vanilla gradient descent,quadratic,556,2.64684e-05,2.64684e-05
+vanilla gradient descent,quadratic,557,2.59391e-05,2.59391e-05
+vanilla gradient descent,quadratic,558,2.54203e-05,2.54203e-05
+vanilla gradient descent,quadratic,559,2.49119e-05,2.49119e-05
+vanilla gradient descent,quadratic,560,2.44136e-05,2.44136e-05
+vanilla gradient descent,quadratic,561,2.39254e-05,2.39254e-05
+vanilla gradient descent,quadratic,562,2.34469e-05,2.34469e-05
+vanilla gradient descent,quadratic,563,2.29779e-05,2.29779e-05
+vanilla gradient descent,quadratic,564,2.25184e-05,2.25184e-05
+vanilla gradient descent,quadratic,565,2.2068e-05,2.2068e-05
+vanilla gradient descent,quadratic,566,2.16266e-05,2.16266e-05
+vanilla gradient descent,quadratic,567,2.11941e-05,2.11941e-05
+vanilla gradient descent,quadratic,568,2.07702e-05,2.07702e-05
+vanilla gradient descent,quadratic,569,2.03548e-05,2.03548e-05
+vanilla gradient descent,quadratic,570,1.99477e-05,1.99477e-05
+vanilla gradient descent,quadratic,571,1.95488e-05,1.95488e-05
+vanilla gradient descent,quadratic,572,1.91578e-05,1.91578e-05
+vanilla gradient descent,quadratic,573,1.87746e-05,1.87746e-05
+vanilla gradient descent,quadratic,574,1.83991e-05,1.83991e-05
+vanilla gradient descent,quadratic,575,1.80312e-05,1.80312e-05
+vanilla gradient descent,quadratic,576,1.76705e-05,1.76705e-05
+vanilla gradient descent,quadratic,577,1.73171e-05,1.73171e-05
+vanilla gradient descent,quadratic,578,1.69708e-05,1.69708e-05
+vanilla gradient descent,quadratic,579,1.66314e-05,1.66314e-05
+vanilla gradient descent,quadratic,580,1.62987e-05,1.62987e-05
+vanilla gradient descent,quadratic,581,1.59728e-05,1.59728e-05
+vanilla gradient descent,quadratic,582,1.56533e-05,1.56533e-05
+vanilla gradient descent,quadratic,583,1.53402e-05,1.53402e-05
+vanilla gradient descent,quadratic,584,1.50334e-05,1.50334e-05
+vanilla gradient descent,quadratic,585,1.47328e-05,1.47328e-05
+vanilla gradient descent,quadratic,586,1.44381e-05,1.44381e-05
+vanilla gradient descent,quadratic,587,1.41493e-05,1.41493e-05
+vanilla gradient descent,quadratic,588,1.38664e-05,1.38664e-05
+vanilla gradient descent,quadratic,589,1.3589e-05,1.3589e-05
+vanilla gradient descent,quadratic,590,1.33173e-05,1.33173e-05
+vanilla gradient descent,quadratic,591,1.30509e-05,1.30509e-05
+vanilla gradient descent,quadratic,592,1.27899e-05,1.27899e-05
+vanilla gradient descent,quadratic,593,1.25341e-05,1.25341e-05
+vanilla gradient descent,quadratic,594,1.22834e-05,1.22834e-05
+vanilla gradient descent,quadratic,595,1.20377e-05,1.20377e-05
+vanilla gradient descent,quadratic,596,1.1797e-05,1.1797e-05
+vanilla gradient descent,quadratic,597,1.1561e-05,1.1561e-05
+vanilla gradient descent,quadratic,598,1.13298e-05,1.13298e-05
+vanilla gradient descent,quadratic,599,1.11032e-05,1.11032e-05
+vanilla gradient descent,quadratic,600,1.08812e-05,1.08812e-05
+vanilla gradient descent,quadratic,601,1.06635e-05,1.06635e-05
+vanilla gradient descent,quadratic,602,1.04503e-05,1.04503e-05
+vanilla gradient descent,quadratic,603,1.02413e-05,1.02413e-05
+vanilla gradient descent,quadratic,604,1.00364e-05,1.00364e-05
+vanilla gradient descent,quadratic,605,9.83571e-06,9.83571e-06
+vanilla gradient descent,quadratic,606,9.639e-06,9.639e-06
+vanilla gradient descent,quadratic,607,9.44622e-06,9.44622e-06
+vanilla gradient descent,quadratic,608,9.25729e-06,9.25729e-06
+vanilla gradient descent,quadratic,609,9.07215e-06,9.07215e-06
+vanilla gradient descent,quadratic,610,8.8907e-06,8.8907e-06
+vanilla gradient descent,quadratic,611,8.71289e-06,8.71289e-06
+vanilla gradient descent,quadratic,612,8.53863e-06,8.53863e-06
+vanilla gradient descent,quadratic,613,8.36786e-06,8.36786e-06
+vanilla gradient descent,quadratic,614,8.2005e-06,8.2005e-06
+vanilla gradient descent,quadratic,615,8.03649e-06,8.03649e-06
+vanilla gradient descent,quadratic,616,7.87576e-06,7.87576e-06
+vanilla gradient descent,quadratic,617,7.71825e-06,7.71825e-06
+vanilla gradient descent,quadratic,618,7.56388e-06,7.56388e-06
+vanilla gradient descent,quadratic,619,7.4126e-06,7.4126e-06
+vanilla gradient descent,quadratic,620,7.26435e-06,7.26435e-06
+vanilla gradient descent,quadratic,621,7.11907e-06,7.11907e-06
+vanilla gradient descent,quadratic,622,6.97668e-06,6.97668e-06
+vanilla gradient descent,quadratic,623,6.83715e-06,6.83715e-06
+vanilla gradient descent,quadratic,624,6.70041e-06,6.70041e-06
+vanilla gradient descent,quadratic,625,6.5664e-06,6.5664e-06
+vanilla gradient descent,quadratic,626,6.43507e-06,6.43507e-06
+vanilla gradient descent,quadratic,627,6.30637e-06,6.30637e-06
+vanilla gradient descent,quadratic,628,6.18024e-06,6.18024e-06
+vanilla gradient descent,quadratic,629,6.05664e-06,6.05664e-06
+vanilla gradient descent,quadratic,630,5.93551e-06,5.93551e-06
+vanilla gradient descent,quadratic,631,5.81679e-06,5.81679e-06
+vanilla gradient descent,quadratic,632,5.70046e-06,5.70046e-06
+vanilla gradient descent,quadratic,633,5.58645e-06,5.58645e-06
+vanilla gradient descent,quadratic,634,5.47472e-06,5.47472e-06
+vanilla gradient descent,quadratic,635,5.36523e-06,5.36523e-06
+vanilla gradient descent,quadratic,636,5.25792e-06,5.25792e-06
+vanilla gradient descent,quadratic,637,5.15276e-06,5.15276e-06
+vanilla gradient descent,quadratic,638,5.04971e-06,5.04971e-06
+vanilla gradient descent,quadratic,639,4.94871e-06,4.94871e-06
+vanilla gradient descent,quadratic,640,4.84974e-06,4.84974e-06
+vanilla gradient descent,quadratic,641,4.75275e-06,4.75275e-06
+vanilla gradient descent,quadratic,642,4.65769e-06,4.65769e-06
+vanilla gradient descent,quadratic,643,4.56454e-06,4.56454e-06
+vanilla gradient descent,quadratic,644,4.47325e-06,4.47325e-06
+vanilla gradient descent,quadratic,645,4.38378e-06,4.38378e-06
+vanilla gradient descent,quadratic,646,4.29611e-06,4.29611e-06
+vanilla gradient descent,quadratic,647,4.21018e-06,4.21018e-06
+vanilla gradient descent,quadratic,648,4.12598e-06,4.12598e-06
+vanilla gradient descent,quadratic,649,4.04346e-06,4.04346e-06
+vanilla gradient descent,quadratic,650,3.96259e-06,3.96259e-06
+vanilla gradient descent,quadratic,651,3.88334e-06,3.88334e-06
+vanilla gradient descent,quadratic,652,3.80567e-06,3.80567e-06
+vanilla gradient descent,quadratic,653,3.72956e-06,3.72956e-06
+vanilla gradient descent,quadratic,654,3.65497e-06,3.65497e-06
+vanilla gradient descent,quadratic,655,3.58187e-06,3.58187e-06
+vanilla gradient descent,quadratic,656,3.51023e-06,3.51023e-06
+vanilla gradient descent,quadratic,657,3.44003e-06,3.44003e-06
+vanilla gradient descent,quadratic,658,3.37123e-06,3.37123e-06
+vanilla gradient descent,quadratic,659,3.3038e-06,3.3038e-06
+vanilla gradient descent,quadratic,660,3.23772e-06,3.23772e-06
+vanilla gradient descent,quadratic,661,3.17297e-06,3.17297e-06
+vanilla gradient descent,quadratic,662,3.10951e-06,3.10951e-06
+vanilla gradient descent,quadratic,663,3.04732e-06,3.04732e-06
+vanilla gradient descent,quadratic,664,2.98637e-06,2.98637e-06
+vanilla gradient descent,quadratic,665,2.92665e-06,2.92665e-06
+vanilla gradient descent,quadratic,666,2.86811e-06,2.86811e-06
+vanilla gradient descent,quadratic,667,2.81075e-06,2.81075e-06
+vanilla gradient descent,quadratic,668,2.75454e-06,2.75454e-06
+vanilla gradient descent,quadratic,669,2.69945e-06,2.69945e-06
+vanilla gradient descent,quadratic,670,2.64546e-06,2.64546e-06
+vanilla gradient descent,quadratic,671,2.59255e-06,2.59255e-06
+vanilla gradient descent,quadratic,672,2.5407e-06,2.5407e-06
+vanilla gradient descent,quadratic,673,2.48988e-06,2.48988e-06
+vanilla gradient descent,quadratic,674,2.44009e-06,2.44009e-06
+vanilla gradient descent,quadratic,675,2.39128e-06,2.39128e-06
+vanilla gradient descent,quadratic,676,2.34346e-06,2.34346e-06
+vanilla gradient descent,quadratic,677,2.29659e-06,2.29659e-06
+vanilla gradient descent,quadratic,678,2.25066e-06,2.25066e-06
+vanilla gradient descent,quadratic,679,2.20564e-06,2.20564e-06
+vanilla gradient descent,quadratic,680,2.16153e-06,2.16153e-06
+vanilla gradient descent,quadratic,681,2.1183e-06,2.1183e-06
+vanilla gradient descent,quadratic,682,2.07593e-06,2.07593e-06
+vanilla gradient descent,quadratic,683,2.03442e-06,2.03442e-06
+vanilla gradient descent,quadratic,684,1.99373e-06,1.99373e-06
+vanilla gradient descent,quadratic,685,1.95385e-06,1.95385e-06
+vanilla gradient descent,quadratic,686,1.91478e-06,1.91478e-06
+vanilla gradient descent,quadratic,687,1.87648e-06,1.87648e-06
+vanilla gradient descent,quadratic,688,1.83895e-06,1.83895e-06
+vanilla gradient descent,quadratic,689,1.80217e-06,1.80217e-06
+vanilla gradient descent,quadratic,690,1.76613e-06,1.76613e-06
+vanilla gradient descent,quadratic,691,1.73081e-06,1.73081e-06
+vanilla gradient descent,quadratic,692,1.69619e-06,1.69619e-06
+vanilla gradient descent,quadratic,693,1.66227e-06,1.66227e-06
+vanilla gradient descent,quadratic,694,1.62902e-06,1.62902e-06
+vanilla gradient descent,quadratic,695,1.59644e-06,1.59644e-06
+vanilla gradient descent,quadratic,696,1.56451e-06,1.56451e-06
+vanilla gradient descent,quadratic,697,1.53322e-06,1.53322e-06
+vanilla gradient descent,quadratic,698,1.50256e-06,1.50256e-06
+vanilla gradient descent,quadratic,699,1.47251e-06,1.47251e-06
+vanilla gradient descent,quadratic,700,1.44306e-06,1.44306e-06
+vanilla gradient descent,quadratic,701,1.41419e-06,1.41419e-06
+vanilla gradient descent,quadratic,702,1.38591e-06,1.38591e-06
+vanilla gradient descent,quadratic,703,1.35819e-06,1.35819e-06
+vanilla gradient descent,quadratic,704,1.33103e-06,1.33103e-06
+vanilla gradient descent,quadratic,705,1.30441e-06,1.30441e-06
+vanilla gradient descent,quadratic,706,1.27832e-06,1.27832e-06
+vanilla gradient descent,quadratic,707,1.25275e-06,1.25275e-06
+vanilla gradient descent,quadratic,708,1.2277e-06,1.2277e-06
+vanilla gradient descent,quadratic,709,1.20314e-06,1.20314e-06
+vanilla gradient descent,quadratic,710,1.17908e-06,1.17908e-06
+vanilla gradient descent,quadratic,711,1.1555e-06,1.1555e-06
+vanilla gradient descent,quadratic,712,1.13239e-06,1.13239e-06
+vanilla gradient descent,quadratic,713,1.10974e-06,1.10974e-06
+vanilla gradient descent,quadratic,714,1.08755e-06,1.08755e-06
+vanilla gradient descent,quadratic,715,1.0658e-06,1.0658e-06
+vanilla gradient descent,quadratic,716,1.04448e-06,1.04448e-06
+vanilla gradient descent,quadratic,717,1.02359e-06,1.02359e-06
+vanilla gradient descent,quadratic,718,1.00312e-06,1.00312e-06
+vanilla gradient descent,quadratic,719,9.83056e-07,9.83056e-07
+vanilla gradient descent,quadratic,720,9.63395e-07,9.63395e-07
+vanilla gradient descent,quadratic,721,9.44127e-07,9.44127e-07
+vanilla gradient descent,quadratic,722,9.25245e-07,9.25245e-07
+vanilla gradient descent,quadratic,723,9.0674e-07,9.0674e-07
+vanilla gradient descent,quadratic,724,8.88605e-07,8.88605e-07
+vanilla gradient descent,quadratic,725,8.70833e-07,8.70833e-07
+vanilla gradient descent,quadratic,726,8.53416e-07,8.53416e-07
+vanilla gradient descent,quadratic,727,8.36348e-07,8.36348e-07
+vanilla gradient descent,quadratic,728,8.19621e-07,8.19621e-07
+vanilla gradient descent,quadratic,729,8.03229e-07,8.03229e-07
+vanilla gradient descent,quadratic,730,7.87164e-07,7.87164e-07
+vanilla gradient descent,quadratic,731,7.71421e-07,7.71421e-07
+vanilla gradient descent,quadratic,732,7.55992e-07,7.55992e-07
+vanilla gradient descent,quadratic,733,7.40873e-07,7.40873e-07
+vanilla gradient descent,quadratic,734,7.26055e-07,7.26055e-07
+vanilla gradient descent,quadratic,735,7.11534e-07,7.11534e-07
+vanilla gradient descent,quadratic,736,6.97303e-07,6.97303e-07
+vanilla gradient descent,quadratic,737,6.83357e-07,6.83357e-07
+vanilla gradient descent,quadratic,738,6.6969e-07,6.6969e-07
+vanilla gradient descent,quadratic,739,6.56296e-07,6.56296e-07
+vanilla gradient descent,quadratic,740,6.4317e-07,6.4317e-07
+vanilla gradient descent,quadratic,741,6.30307e-07,6.30307e-07
+vanilla gradient descent,quadratic,742,6.17701e-07,6.17701e-07
+vanilla gradient descent,quadratic,743,6.05347e-07,6.05347e-07
+vanilla gradient descent,quadratic,744,5.9324e-07,5.9324e-07
+vanilla gradient descent,quadratic,745,5.81375e-07,5.81375e-07
+vanilla gradient descent,quadratic,746,5.69748e-07,5.69748e-07
+vanilla gradient descent,quadratic,747,5.58353e-07,5.58353e-07
+vanilla gradient descent,quadratic,748,5.47186e-07,5.47186e-07
+vanilla gradient descent,quadratic,749,5.36242e-07,5.36242e-07
+vanilla gradient descent,quadratic,750,5.25517e-07,5.25517e-07
+vanilla gradient descent,quadratic,751,5.15007e-07,5.15007e-07
+vanilla gradient descent,quadratic,752,5.04707e-07,5.04707e-07
+vanilla gradient descent,quadratic,753,4.94612e-07,4.94612e-07
+vanilla gradient descent,quadratic,754,4.8472e-07,4.8472e-07
+vanilla gradient descent,quadratic,755,4.75026e-07,4.75026e-07
+vanilla gradient descent,quadratic,756,4.65525e-07,4.65525e-07
+vanilla gradient descent,quadratic,757,4.56215e-07,4.56215e-07
+vanilla gradient descent,quadratic,758,4.4709e-07,4.4709e-07
+vanilla gradient descent,quadratic,759,4.38149e-07,4.38149e-07
+vanilla gradient descent,quadratic,760,4.29386e-07,4.29386e-07
+vanilla gradient descent,quadratic,761,4.20798e-07,4.20798e-07
+vanilla gradient descent,quadratic,762,4.12382e-07,4.12382e-07
+vanilla gradient descent,quadratic,763,4.04134e-07,4.04134e-07
+vanilla gradient descent,quadratic,764,3.96052e-07,3.96052e-07
+vanilla gradient descent,quadratic,765,3.88131e-07,3.88131e-07
+vanilla gradient descent,quadratic,766,3.80368e-07,3.80368e-07
+vanilla gradient descent,quadratic,767,3.72761e-07,3.72761e-07
+vanilla gradient descent,quadratic,768,3.65305e-07,3.65305e-07
+vanilla gradient descent,quadratic,769,3.57999e-07,3.57999e-07
+vanilla gradient descent,quadratic,770,3.50839e-07,3.50839e-07
+gradient descent + momentum,quadratic,0,2,2
+gradient descent + momentum,quadratic,1,1.96,1.96
+gradient descent + momentum,quadratic,2,1.8848,1.8848
+gradient descent + momentum,quadratic,3,1.77942,1.77942
+gradient descent + momentum,quadratic,4,1.649,1.649
+gradient descent + momentum,quadratic,5,1.49863,1.49863
+gradient descent + momentum,quadratic,6,1.33333,1.33333
+gradient descent + momentum,quadratic,7,1.1579,1.1579
+gradient descent + momentum,quadratic,8,0.976844,0.976844
+gradient descent + momentum,quadratic,9,0.794361,0.794361
+gradient descent + momentum,quadratic,10,0.61424,0.61424
+gradient descent + momentum,quadratic,11,0.439845,0.439845
+gradient descent + momentum,quadratic,12,0.274093,0.274093
+gradient descent + momentum,quadratic,13,0.119434,0.119434
+gradient descent + momentum,quadratic,14,-0.022147,-0.022147
+gradient descent + momentum,quadratic,15,-0.149127,-0.149127
+gradient descent + momentum,quadratic,16,-0.260427,-0.260427
+gradient descent + momentum,quadratic,17,-0.355388,-0.355388
+gradient descent + momentum,quadratic,18,-0.433746,-0.433746
+gradient descent + momentum,quadratic,19,-0.495592,-0.495592
+gradient descent + momentum,quadratic,20,-0.541343,-0.541343
+gradient descent + momentum,quadratic,21,-0.571691,-0.571691
+gradient descent + momentum,quadratic,22,-0.587571,-0.587571
+gradient descent + momentum,quadratic,23,-0.590111,-0.590111
+gradient descent + momentum,quadratic,24,-0.580595,-0.580595
+gradient descent + momentum,quadratic,25,-0.560419,-0.560419
+gradient descent + momentum,quadratic,26,-0.531052,-0.531052
+gradient descent + momentum,quadratic,27,-0.494,-0.494
+gradient descent + momentum,quadratic,28,-0.450774,-0.450774
+gradient descent + momentum,quadratic,29,-0.402855,-0.402855
+gradient descent + momentum,quadratic,30,-0.351671,-0.351671
+gradient descent + momentum,quadratic,31,-0.298572,-0.298572
+gradient descent + momentum,quadratic,32,-0.244811,-0.244811
+gradient descent + momentum,quadratic,33,-0.19153,-0.19153
+gradient descent + momentum,quadratic,34,-0.139746,-0.139746
+gradient descent + momentum,quadratic,35,-0.0903465,-0.0903465
+gradient descent + momentum,quadratic,36,-0.0440795,-0.0440795
+gradient descent + momentum,quadratic,37,-0.0015577,-0.0015577
+gradient descent + momentum,quadratic,38,0.0367431,0.0367431
+gradient descent + momentum,quadratic,39,0.070479,0.070479
+gradient descent + momentum,quadratic,40,0.0994316,0.0994316
+gradient descent + momentum,quadratic,41,0.1235,0.1235
+gradient descent + momentum,quadratic,42,0.142692,0.142692
+gradient descent + momentum,quadratic,43,0.157111,0.157111
+gradient descent + momentum,quadratic,44,0.166946,0.166946
+gradient descent + momentum,quadratic,45,0.172458,0.172458
+gradient descent + momentum,quadratic,46,0.17397,0.17397
+gradient descent + momentum,quadratic,47,0.171852,0.171852
+gradient descent + momentum,quadratic,48,0.166508,0.166508
+gradient descent + momentum,quadratic,49,0.158368,0.158368
+gradient descent + momentum,quadratic,50,0.147875,0.147875
+gradient descent + momentum,quadratic,51,0.135474,0.135474
+gradient descent + momentum,quadratic,52,0.121603,0.121603
+gradient descent + momentum,quadratic,53,0.106688,0.106688
+gradient descent + momentum,quadratic,54,0.0911301,0.0911301
+gradient descent + momentum,quadratic,55,0.0753055,0.0753055
+gradient descent + momentum,quadratic,56,0.0595573,0.0595573
+gradient descent + momentum,quadratic,57,0.0441927,0.0441927
+gradient descent + momentum,quadratic,58,0.0294807,0.0294807
+gradient descent + momentum,quadratic,59,0.0156504,0.0156504
+gradient descent + momentum,quadratic,60,0.00289,0.00289
+gradient descent + momentum,quadratic,61,-0.00865211,-0.00865211
+gradient descent + momentum,quadratic,62,-0.018867,-0.018867
+gradient descent + momentum,quadratic,63,-0.027683,-0.027683
+gradient descent + momentum,quadratic,64,-0.0350638,-0.0350638
+gradient descent + momentum,quadratic,65,-0.0410052,-0.0410052
+gradient descent + momentum,quadratic,66,-0.0455324,-0.0455324
+gradient descent + momentum,quadratic,67,-0.0486962,-0.0486962
+gradient descent + momentum,quadratic,68,-0.0505697,-0.0505697
+gradient descent + momentum,quadratic,69,-0.0512445,-0.0512445
+gradient descent + momentum,quadratic,70,-0.0508269,-0.0508269
+gradient descent + momentum,quadratic,71,-0.0494345,-0.0494345
+gradient descent + momentum,quadratic,72,-0.0471926,-0.0471926
+gradient descent + momentum,quadratic,73,-0.0442311,-0.0442311
+gradient descent + momentum,quadratic,74,-0.0406812,-0.0406812
+gradient descent + momentum,quadratic,75,-0.0366726,-0.0366726
+gradient descent + momentum,quadratic,76,-0.0323314,-0.0323314
+gradient descent + momentum,quadratic,77,-0.0277777,-0.0277777
+gradient descent + momentum,quadratic,78,-0.0231238,-0.0231238
+gradient descent + momentum,quadratic,79,-0.0184728,-0.0184728
+gradient descent + momentum,quadratic,80,-0.0139175,-0.0139175
+gradient descent + momentum,quadratic,81,-0.00953934,-0.00953934
+gradient descent + momentum,quadratic,82,-0.00540822,-0.00540822
+gradient descent + momentum,quadratic,83,-0.00158205,-0.00158205
+gradient descent + momentum,quadratic,84,0.00189315,0.00189315
+gradient descent + momentum,quadratic,85,0.00498296,0.00498296
+gradient descent + momentum,quadratic,86,0.00766413,0.00766413
+gradient descent + momentum,quadratic,87,0.00992391,0.00992391
+gradient descent + momentum,quadratic,88,0.0117592,0.0117592
+gradient descent + momentum,quadratic,89,0.0131758,0.0131758
+gradient descent + momentum,quadratic,90,0.0141872,0.0141872
+gradient descent + momentum,quadratic,91,0.0148138,0.0148138
+gradient descent + momentum,quadratic,92,0.0150814,0.0150814
+gradient descent + momentum,quadratic,93,0.0150206,0.0150206
+gradient descent + momentum,quadratic,94,0.0146655,0.0146655
+gradient descent + momentum,quadratic,95,0.0140526,0.0140526
+gradient descent + momentum,quadratic,96,0.0132199,0.0132199
+gradient descent + momentum,quadratic,97,0.0122061,0.0122061
+gradient descent + momentum,quadratic,98,0.0110496,0.0110496
+gradient descent + momentum,quadratic,99,0.00978768,0.00978768
+gradient descent + momentum,quadratic,100,0.00845623,0.00845623
+gradient descent + momentum,quadratic,101,0.0070888,0.0070888
+gradient descent + momentum,quadratic,102,0.00571634,0.00571634
+gradient descent + momentum,quadratic,103,0.0043668,0.0043668
+gradient descent + momentum,quadratic,104,0.00306487,0.00306487
+gradient descent + momentum,quadratic,105,0.00183185,0.00183185
+gradient descent + momentum,quadratic,106,0.000685482,0.000685482
+gradient descent + momentum,quadratic,107,-0.000359954,-0.000359954
+gradient descent + momentum,quadratic,108,-0.00129365,-0.00129365
+gradient descent + momentum,quadratic,109,-0.0021081,-0.0021081
+gradient descent + momentum,quadratic,110,-0.00279894,-0.00279894
+gradient descent + momentum,quadratic,111,-0.00336472,-0.00336472
+gradient descent + momentum,quadratic,112,-0.00380663,-0.00380663
+gradient descent + momentum,quadratic,113,-0.00412822,-0.00412822
+gradient descent + momentum,quadratic,114,-0.00433508,-0.00433508
+gradient descent + momentum,quadratic,115,-0.00443455,-0.00443455
+gradient descent + momentum,quadratic,116,-0.00443539,-0.00443539
+gradient descent + momentum,quadratic,117,-0.00434743,-0.00434743
+gradient descent + momentum,quadratic,118,-0.00418132,-0.00418132
+gradient descent + momentum,quadratic,119,-0.0039482,-0.0039482
+gradient descent + momentum,quadratic,120,-0.00365942,-0.00365942
+gradient descent + momentum,quadratic,121,-0.00332634,-0.00332634
+gradient descent + momentum,quadratic,122,-0.00296003,-0.00296003
+gradient descent + momentum,quadratic,123,-0.00257116,-0.00257116
+gradient descent + momentum,quadratic,124,-0.00216975,-0.00216975
+gradient descent + momentum,quadratic,125,-0.00176508,-0.00176508
+gradient descent + momentum,quadratic,126,-0.00136558,-0.00136558
+gradient descent + momentum,quadratic,127,-0.000978721,-0.000978721
+gradient descent + momentum,quadratic,128,-0.000610971,-0.000610971
+gradient descent + momentum,quadratic,129,-0.000267777,-0.000267777
+gradient descent + momentum,quadratic,130,4.64528e-05,4.64528e-05
+gradient descent + momentum,quadratic,131,0.000328331,0.000328331
+gradient descent + momentum,quadratic,132,0.000575455,0.000575455
+gradient descent + momentum,quadratic,133,0.000786357,0.000786357
+gradient descent + momentum,quadratic,134,0.000960442,0.000960442
+gradient descent + momentum,quadratic,135,0.00109791,0.00109791
+gradient descent + momentum,quadratic,136,0.00119967,0.00119967
+gradient descent + momentum,quadratic,137,0.00126726,0.00126726
+gradient descent + momentum,quadratic,138,0.00130275,0.00130275
+gradient descent + momentum,quadratic,139,0.00130864,0.00130864
+gradient descent + momentum,quadratic,140,0.00128776,0.00128776
+gradient descent + momentum,quadratic,141,0.00124322,0.00124322
+gradient descent + momentum,quadratic,142,0.00117826,0.00117826
+gradient descent + momentum,quadratic,143,0.00109624,0.00109624
+gradient descent + momentum,quadratic,144,0.00100049,0.00100049
+gradient descent + momentum,quadratic,145,0.00089431,0.00089431
+gradient descent + momentum,quadratic,146,0.000780861,0.000780861
+gradient descent + momentum,quadratic,147,0.000663139,0.000663139
+gradient descent + momentum,quadratic,148,0.000543926,0.000543926
+gradient descent + momentum,quadratic,149,0.000425757,0.000425757
+gradient descent + momentum,quadratic,150,0.000310889,0.000310889
+gradient descent + momentum,quadratic,151,0.00020129,0.00020129
+gradient descent + momentum,quadratic,152,9.86249e-05,9.86249e-05
+gradient descent + momentum,quadratic,153,4.25412e-06,4.25412e-06
+gradient descent + momentum,quadratic,154,-8.07647e-05,-8.07647e-05
+gradient descent + momentum,quadratic,155,-0.000155666,-0.000155666
+gradient descent + momentum,quadratic,156,-0.000219964,-0.000219964
+gradient descent + momentum,quadratic,157,-0.000273434,-0.000273434
+gradient descent + momentum,quadratic,158,-0.000316087,-0.000316087
+gradient descent + momentum,quadratic,159,-0.000348153,-0.000348153
+gradient descent + momentum,quadratic,160,-0.00037005,-0.00037005
+gradient descent + momentum,quadratic,161,-0.000382356,-0.000382356
+gradient descent + momentum,quadratic,162,-0.000385784,-0.000385784
+gradient descent + momentum,quadratic,163,-0.000381154,-0.000381154
+gradient descent + momentum,quadratic,164,-0.000369364,-0.000369364
+gradient descent + momentum,quadratic,165,-0.000351365,-0.000351365
+gradient descent + momentum,quadratic,166,-0.000328139,-0.000328139
+gradient descent + momentum,quadratic,167,-0.000300673,-0.000300673
+gradient descent + momentum,quadratic,168,-0.00026994,-0.00026994
+gradient descent + momentum,quadratic,169,-0.000236882,-0.000236882
+gradient descent + momentum,quadratic,170,-0.000202391,-0.000202391
+gradient descent + momentum,quadratic,171,-0.000167302,-0.000167302
+gradient descent + momentum,quadratic,172,-0.000132376,-0.000132376
+gradient descent + momentum,quadratic,173,-9.82948e-05,-9.82948e-05
+gradient descent + momentum,quadratic,174,-6.56559e-05,-6.56559e-05
+gradient descent + momentum,quadratic,175,-3.49678e-05,-3.49678e-05
+gradient descent + momentum,quadratic,176,-6.6491e-06,-6.6491e-06
+gradient descent + momentum,quadratic,177,1.89707e-05,1.89707e-05
+gradient descent + momentum,quadratic,178,4.16491e-05,4.16491e-05
+gradient descent + momentum,quadratic,179,6.12267e-05,6.12267e-05
+gradient descent + momentum,quadratic,180,7.7622e-05,7.7622e-05
+gradient descent + momentum,quadratic,181,9.08253e-05,9.08253e-05
+gradient descent + momentum,quadratic,182,0.000100892,0.000100892
+gradient descent + momentum,quadratic,183,0.000107934,0.000107934
+gradient descent + momentum,quadratic,184,0.000112113,0.000112113
+gradient descent + momentum,quadratic,185,0.000113632,0.000113632
+gradient descent + momentum,quadratic,186,0.000112726,0.000112726
+gradient descent + momentum,quadratic,187,0.000109657,0.000109657
+gradient descent + momentum,quadratic,188,0.000104701,0.000104701
+gradient descent + momentum,quadratic,189,9.81468e-05,9.81468e-05
+gradient descent + momentum,quadratic,190,9.02851e-05,9.02851e-05
+gradient descent + momentum,quadratic,191,8.14039e-05,8.14039e-05
+gradient descent + momentum,quadratic,192,7.17827e-05,7.17827e-05
+gradient descent + momentum,quadratic,193,6.1688e-05,6.1688e-05
+gradient descent + momentum,quadratic,194,5.1369e-05,5.1369e-05
+gradient descent + momentum,quadratic,195,4.10545e-05,4.10545e-05
+gradient descent + momentum,quadratic,196,3.09504e-05,3.09504e-05
+gradient descent + momentum,quadratic,197,2.12377e-05,2.12377e-05
+gradient descent + momentum,quadratic,198,1.20715e-05,1.20715e-05
+gradient descent + momentum,quadratic,199,3.58045e-06,3.58045e-06
+gradient descent + momentum,quadratic,200,-4.13307e-06,-4.13307e-06
+gradient descent + momentum,quadratic,201,-1.09926e-05,-1.09926e-05
+gradient descent + momentum,quadratic,202,-1.69463e-05,-1.69463e-05
+gradient descent + momentum,quadratic,203,-2.19657e-05,-2.19657e-05
+gradient descent + momentum,quadratic,204,-2.60438e-05,-2.60438e-05
+gradient descent + momentum,quadratic,205,-2.91933e-05,-2.91933e-05
+gradient descent + momentum,quadratic,206,-3.1444e-05,-3.1444e-05
+gradient descent + momentum,quadratic,207,-3.28407e-05,-3.28407e-05
+gradient descent + momentum,quadratic,208,-3.34409e-05,-3.34409e-05
+gradient descent + momentum,quadratic,209,-3.33123e-05,-3.33123e-05
+gradient descent + momentum,quadratic,210,-3.25303e-05,-3.25303e-05
+gradient descent + momentum,quadratic,211,-3.11759e-05,-3.11759e-05
+gradient descent + momentum,quadratic,212,-2.93334e-05,-2.93334e-05
+gradient descent + momentum,quadratic,213,-2.70885e-05,-2.70885e-05
+gradient descent + momentum,quadratic,214,-2.45263e-05,-2.45263e-05
+gradient descent + momentum,quadratic,215,-2.17298e-05,-2.17298e-05
+gradient descent + momentum,quadratic,216,-1.87784e-05,-1.87784e-05
+gradient descent + momentum,quadratic,217,-1.57465e-05,-1.57465e-05
+gradient descent + momentum,quadratic,218,-1.27029e-05,-1.27029e-05
+gradient descent + momentum,quadratic,219,-9.7096e-06,-9.7096e-06
+gradient descent + momentum,quadratic,220,-6.82143e-06,-6.82143e-06
+gradient descent + momentum,quadratic,221,-4.08566e-06,-4.08566e-06
+gradient descent + momentum,quadratic,222,-1.54175e-06,-1.54175e-06
+gradient descent + momentum,quadratic,223,7.78607e-07,7.78607e-07
+gradient descent + momentum,quadratic,224,2.85135e-06,2.85135e-06
+gradient descent + momentum,quadratic,225,4.6598e-06,4.6598e-06
+gradient descent + momentum,quadratic,226,6.1942e-06,6.1942e-06
+gradient descent + momentum,quadratic,227,7.45129e-06,7.45129e-06
+gradient descent + momentum,quadratic,228,8.43363e-06,8.43363e-06
+gradient descent + momentum,quadratic,229,9.14907e-06,9.14907e-06
+gradient descent + momentum,quadratic,230,9.60999e-06,9.60999e-06
+gradient descent + momentum,quadratic,231,9.83261e-06,9.83261e-06
+gradient descent + momentum,quadratic,232,9.83632e-06,9.83632e-06
+gradient descent + momentum,quadratic,233,9.64293e-06,9.64293e-06
+gradient descent + momentum,quadratic,234,9.27602e-06,9.27602e-06
+gradient descent + momentum,quadratic,235,8.76028e-06,8.76028e-06
+gradient descent + momentum,quadratic,236,8.12091e-06,8.12091e-06
+gradient descent + momentum,quadratic,237,7.38306e-06,7.38306e-06
+gradient descent + momentum,quadratic,238,6.57133e-06,6.57133e-06
+gradient descent + momentum,quadratic,239,5.70935e-06,5.70935e-06
+gradient descent + momentum,quadratic,240,4.81938e-06,4.81938e-06
+gradient descent + momentum,quadratic,241,3.92202e-06,3.92202e-06
+gradient descent + momentum,quadratic,242,3.03596e-06,3.03596e-06
+gradient descent + momentum,quadratic,243,2.17778e-06,2.17778e-06
+gradient descent + momentum,quadratic,244,1.36186e-06,1.36186e-06
+gradient descent + momentum,quadratic,245,6.00302e-07,6.00302e-07
+gradient descent + momentum,quadratic,246,-9.71091e-08,-9.71091e-08
+nesterov momentum,quadratic,0,2,2
+nesterov momentum,quadratic,1,1.924,1.924
+nesterov momentum,quadratic,2,1.81849,1.81849
+nesterov momentum,quadratic,3,1.68906,1.68906
+nesterov momentum,quadratic,4,1.54112,1.54112
+nesterov momentum,quadratic,5,1.37981,1.37981
+nesterov momentum,quadratic,6,1.20994,1.20994
+nesterov momentum,quadratic,7,1.03592,1.03592
+nesterov momentum,quadratic,8,0.861717,0.861717
+nesterov momentum,quadratic,9,0.690833,0.690833
+nesterov momentum,quadratic,10,0.526297,0.526297
+nesterov momentum,quadratic,11,0.37065,0.37065
+nesterov momentum,quadratic,12,0.225957,0.225957
+nesterov momentum,quadratic,13,0.093818,0.093818
+nesterov momentum,quadratic,14,-0.0246048,-0.0246048
+nesterov momentum,quadratic,15,-0.128562,-0.128562
+nesterov momentum,quadratic,16,-0.21768,-0.21768
+nesterov momentum,quadratic,17,-0.291929,-0.291929
+nesterov momentum,quadratic,18,-0.351578,-0.351578
+nesterov momentum,quadratic,19,-0.397157,-0.397157
+nesterov momentum,quadratic,20,-0.429415,-0.429415
+nesterov momentum,quadratic,21,-0.449278,-0.449278
+nesterov momentum,quadratic,22,-0.457811,-0.457811
+nesterov momentum,quadratic,23,-0.456181,-0.456181
+nesterov momentum,quadratic,24,-0.44562,-0.44562
+nesterov momentum,quadratic,25,-0.427393,-0.427393
+nesterov momentum,quadratic,26,-0.402769,-0.402769
+nesterov momentum,quadratic,27,-0.372995,-0.372995
+nesterov momentum,quadratic,28,-0.339274,-0.339274
+nesterov momentum,quadratic,29,-0.302747,-0.302747
+nesterov momentum,quadratic,30,-0.264475,-0.264475
+nesterov momentum,quadratic,31,-0.22543,-0.22543
+nesterov momentum,quadratic,32,-0.186484,-0.186484
+nesterov momentum,quadratic,33,-0.148403,-0.148403
+nesterov momentum,quadratic,34,-0.111848,-0.111848
+nesterov momentum,quadratic,35,-0.0773696,-0.0773696
+nesterov momentum,quadratic,36,-0.0454122,-0.0454122
+nesterov momentum,quadratic,37,-0.0163175,-0.0163175
+nesterov momentum,quadratic,38,0.00967039,0.00967039
+nesterov momentum,quadratic,39,0.0323983,0.0323983
+nesterov momentum,quadratic,40,0.0517963,0.0517963
+nesterov momentum,quadratic,41,0.0678695,0.0678695
+nesterov momentum,quadratic,42,0.0806886,0.0806886
+nesterov momentum,quadratic,43,0.0903813,0.0903813
+nesterov momentum,quadratic,44,0.0971226,0.0971226
+nesterov momentum,quadratic,45,0.101126,0.101126
+nesterov momentum,quadratic,46,0.102635,0.102635
+nesterov momentum,quadratic,47,0.101912,0.101912
+nesterov momentum,quadratic,48,0.0992371,0.0992371
+nesterov momentum,quadratic,49,0.0948928,0.0948928
+nesterov momentum,quadratic,50,0.0891632,0.0891632
+nesterov momentum,quadratic,51,0.0823265,0.0823265
+nesterov momentum,quadratic,52,0.07465,0.07465
+nesterov momentum,quadratic,53,0.0663863,0.0663863
+nesterov momentum,quadratic,54,0.0577701,0.0577701
+nesterov momentum,quadratic,55,0.0490151,0.0490151
+nesterov momentum,quadratic,56,0.0403129,0.0403129
+nesterov momentum,quadratic,57,0.0318313,0.0318313
+nesterov momentum,quadratic,58,0.0237139,0.0237139
+nesterov momentum,quadratic,59,0.0160801,0.0160801
+nesterov momentum,quadratic,60,0.00902549,0.00902549
+nesterov momentum,quadratic,61,0.0026228,0.0026228
+nesterov momentum,quadratic,62,-0.00307683,-0.00307683
+nesterov momentum,quadratic,63,-0.00804236,-0.00804236
+nesterov momentum,quadratic,64,-0.0122611,-0.0122611
+nesterov momentum,quadratic,65,-0.0157368,-0.0157368
+nesterov momentum,quadratic,66,-0.0184877,-0.0184877
+nesterov momentum,quadratic,67,-0.0205442,-0.0205442
+nesterov momentum,quadratic,68,-0.0219471,-0.0219471
+nesterov momentum,quadratic,69,-0.0227456,-0.0227456
+nesterov momentum,quadratic,70,-0.0229949,-0.0229949
+nesterov momentum,quadratic,71,-0.0227549,-0.0227549
+nesterov momentum,quadratic,72,-0.0220881,-0.0220881
+nesterov momentum,quadratic,73,-0.0210583,-0.0210583
+nesterov momentum,quadratic,74,-0.0197288,-0.0197288
+nesterov momentum,quadratic,75,-0.0181616,-0.0181616
+nesterov momentum,quadratic,76,-0.0164161,-0.0164161
+nesterov momentum,quadratic,77,-0.0145482,-0.0145482
+nesterov momentum,quadratic,78,-0.0126098,-0.0126098
+nesterov momentum,quadratic,79,-0.010648,-0.010648
+nesterov momentum,quadratic,80,-0.00870463,-0.00870463
+nesterov momentum,quadratic,81,-0.00681652,-0.00681652
+nesterov momentum,quadratic,82,-0.00501488,-0.00501488
+nesterov momentum,quadratic,83,-0.00332553,-0.00332553
+nesterov momentum,quadratic,84,-0.00176901,-0.00176901
+nesterov momentum,quadratic,85,-0.000360788,-0.000360788
+nesterov momentum,quadratic,86,0.000888484,0.000888484
+nesterov momentum,quadratic,87,0.00197257,0.00197257
+nesterov momentum,quadratic,88,0.00288929,0.00288929
+nesterov momentum,quadratic,89,0.00364004,0.00364004
+nesterov momentum,quadratic,90,0.00422941,0.00422941
+nesterov momentum,quadratic,91,0.00466464,0.00466464
+nesterov momentum,quadratic,92,0.00495522,0.00495522
+nesterov momentum,quadratic,93,0.00511241,0.00511241
+nesterov momentum,quadratic,94,0.0051488,0.0051488
+nesterov momentum,quadratic,95,0.00507793,0.00507793
+nesterov momentum,quadratic,96,0.00491385,0.00491385
+nesterov momentum,quadratic,97,0.00467086,0.00467086
+nesterov momentum,quadratic,98,0.00436313,0.00436313
+nesterov momentum,quadratic,99,0.00400445,0.00400445
+nesterov momentum,quadratic,100,0.003608,0.003608
+nesterov momentum,quadratic,101,0.00318617,0.00318617
+nesterov momentum,quadratic,102,0.0027504,0.0027504
+nesterov momentum,quadratic,103,0.00231104,0.00231104
+nesterov momentum,quadratic,104,0.0018773,0.0018773
+nesterov momentum,quadratic,105,0.0014572,0.0014572
+nesterov momentum,quadratic,106,0.00105752,0.00105752
+nesterov momentum,quadratic,107,0.000683858,0.000683858
+nesterov momentum,quadratic,108,0.00034061,0.00034061
+nesterov momentum,quadratic,109,3.10528e-05,3.10528e-05
+nesterov momentum,quadratic,110,-0.000242597,-0.000242597
+nesterov momentum,quadratic,111,-0.000479105,-0.000479105
+nesterov momentum,quadratic,112,-0.000678123,-0.000678123
+nesterov momentum,quadratic,113,-0.000840094,-0.000840094
+nesterov momentum,quadratic,114,-0.00096615,-0.00096615
+nesterov momentum,quadratic,115,-0.00105801,-0.00105801
+nesterov momentum,quadratic,116,-0.00111787,-0.00111787
+nesterov momentum,quadratic,117,-0.00114831,-0.00114831
+nesterov momentum,quadratic,118,-0.00115219,-0.00115219
+nesterov momentum,quadratic,119,-0.00113257,-0.00113257
+nesterov momentum,quadratic,120,-0.00109261,-0.00109261
+nesterov momentum,quadratic,121,-0.00103552,-0.00103552
+nesterov momentum,quadratic,122,-0.000964448,-0.000964448
+nesterov momentum,quadratic,123,-0.000882478,-0.000882478
+nesterov momentum,quadratic,124,-0.00079253,-0.00079253
+nesterov momentum,quadratic,125,-0.000697346,-0.000697346
+nesterov momentum,quadratic,126,-0.000599446,-0.000599446
+nesterov momentum,quadratic,127,-0.00050111,-0.00050111
+nesterov momentum,quadratic,128,-0.000404355,-0.000404355
+nesterov momentum,quadratic,129,-0.00031093,-0.00031093
+nesterov momentum,quadratic,130,-0.000222311,-0.000222311
+nesterov momentum,quadratic,131,-0.000139703,-0.000139703
+nesterov momentum,quadratic,132,-6.40479e-05,-6.40479e-05
+nesterov momentum,quadratic,133,3.96048e-06,3.96048e-06
+nesterov momentum,quadratic,134,6.38647e-05,6.38647e-05
+nesterov momentum,quadratic,135,0.000115423,0.000115423
+nesterov momentum,quadratic,136,0.000158589,0.000158589
+nesterov momentum,quadratic,137,0.000193489,0.000193489
+nesterov momentum,quadratic,138,0.000220402,0.000220402
+nesterov momentum,quadratic,139,0.000239731,0.000239731
+nesterov momentum,quadratic,140,0.000251984,0.000251984
+nesterov momentum,quadratic,141,0.000257752,0.000257752
+nesterov momentum,quadratic,142,0.000257684,0.000257684
+nesterov momentum,quadratic,143,0.00025247,0.00025247
+nesterov momentum,quadratic,144,0.000242823,0.000242823
+nesterov momentum,quadratic,145,0.000229457,0.000229457
+nesterov momentum,quadratic,146,0.000213079,0.000213079
+nesterov momentum,quadratic,147,0.000194372,0.000194372
+nesterov momentum,quadratic,148,0.000173986,0.000173986
+nesterov momentum,quadratic,149,0.000152525,0.000152525
+nesterov momentum,quadratic,150,0.000130546,0.000130546
+nesterov momentum,quadratic,151,0.000108549,0.000108549
+nesterov momentum,quadratic,152,8.69777e-05,8.69777e-05
+nesterov momentum,quadratic,153,6.62118e-05,6.62118e-05
+nesterov momentum,quadratic,154,4.6572e-05,4.6572e-05
+nesterov momentum,quadratic,155,2.83184e-05,2.83184e-05
+nesterov momentum,quadratic,156,1.16522e-05,1.16522e-05
+nesterov momentum,quadratic,157,-3.28034e-06,-3.28034e-06
+nesterov momentum,quadratic,158,-1.63853e-05,-1.63853e-05
+nesterov momentum,quadratic,159,-2.76161e-05,-2.76161e-05
+nesterov momentum,quadratic,160,-3.69694e-05,-3.69694e-05
+nesterov momentum,quadratic,161,-4.44796e-05,-4.44796e-05
+nesterov momentum,quadratic,162,-5.0214e-05,-5.0214e-05
+nesterov momentum,quadratic,163,-5.42674e-05,-5.42674e-05
+nesterov momentum,quadratic,164,-5.67572e-05,-5.67572e-05
+nesterov momentum,quadratic,165,-5.78181e-05,-5.78181e-05
+nesterov momentum,quadratic,166,-5.75974e-05,-5.75974e-05
+nesterov momentum,quadratic,167,-5.62508e-05,-5.62508e-05
+nesterov momentum,quadratic,168,-5.39381e-05,-5.39381e-05
+nesterov momentum,quadratic,169,-5.08196e-05,-5.08196e-05
+nesterov momentum,quadratic,170,-4.70526e-05,-4.70526e-05
+nesterov momentum,quadratic,171,-4.27891e-05,-4.27891e-05
+nesterov momentum,quadratic,172,-3.81729e-05,-3.81729e-05
+nesterov momentum,quadratic,173,-3.33379e-05,-3.33379e-05
+nesterov momentum,quadratic,174,-2.84067e-05,-2.84067e-05
+nesterov momentum,quadratic,175,-2.34893e-05,-2.34893e-05
+nesterov momentum,quadratic,176,-1.86823e-05,-1.86823e-05
+nesterov momentum,quadratic,177,-1.40689e-05,-1.40689e-05
+nesterov momentum,quadratic,178,-9.71854e-06,-9.71854e-06
+nesterov momentum,quadratic,179,-5.68713e-06,-5.68713e-06
+nesterov momentum,quadratic,180,-2.01768e-06,-2.01768e-06
+nesterov momentum,quadratic,181,1.25913e-06,1.25913e-06
+nesterov momentum,quadratic,182,4.12409e-06,4.12409e-06
+nesterov momentum,quadratic,183,6.56851e-06,6.56851e-06
+nesterov momentum,quadratic,184,8.59311e-06,8.59311e-06
+nesterov momentum,quadratic,185,1.0207e-05,1.0207e-05
+nesterov momentum,quadratic,186,1.14262e-05,1.14262e-05
+nesterov momentum,quadratic,187,1.22731e-05,1.22731e-05
+nesterov momentum,quadratic,188,1.27746e-05,1.27746e-05
+nesterov momentum,quadratic,189,1.29614e-05,1.29614e-05
+nesterov momentum,quadratic,190,1.28669e-05,1.28669e-05
+nesterov momentum,quadratic,191,1.25263e-05,1.25263e-05
+nesterov momentum,quadratic,192,1.19753e-05,1.19753e-05
+nesterov momentum,quadratic,193,1.12498e-05,1.12498e-05
+nesterov momentum,quadratic,194,1.03849e-05,1.03849e-05
+nesterov momentum,quadratic,195,9.41444e-06,9.41444e-06
+nesterov momentum,quadratic,196,8.37017e-06,8.37017e-06
+nesterov momentum,quadratic,197,7.28171e-06,7.28171e-06
+nesterov momentum,quadratic,198,6.17606e-06,6.17606e-06
+nesterov momentum,quadratic,199,5.07736e-06,5.07736e-06
+nesterov momentum,quadratic,200,4.00675e-06,4.00675e-06
+nesterov momentum,quadratic,201,2.98234e-06,2.98234e-06
+nesterov momentum,quadratic,202,2.01917e-06,2.01917e-06
+nesterov momentum,quadratic,203,1.12926e-06,1.12926e-06
+nesterov momentum,quadratic,204,3.21782e-07,3.21782e-07

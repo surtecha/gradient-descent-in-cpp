@@ -1,0 +1,4 @@
+optimizer,function,iterations,grad_norm,final_x,final_y,time_ms
+vanilla gradient descent,quadratic,770,9.92323e-07,3.50839e-07,3.50839e-07,0.029
+gradient descent + momentum,quadratic,246,2.74666e-07,-9.71091e-08,-9.71091e-08,0.009709
+nesterov momentum,quadratic,204,9.10137e-07,1.10668e-06,1.10668e-06,0.006459
