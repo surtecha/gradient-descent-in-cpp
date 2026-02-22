@@ -3,6 +3,7 @@
 #include <vector>
 #include <chrono>
 #include <string>
+#include <cmath>
 #include "../include/optimizer.hpp"
 
 using namespace optim;
@@ -46,19 +47,22 @@ double prompt_double(const std::string& msg, double def) {
 
 void record(std::ofstream& traj, std::ofstream& bench,
             const std::string& opt, const std::string& fn,
-            const std::vector<Vec2>& path, const OptimizerResult& res, double ms)
+            const std::vector<Vec2>& path, const OptimizerResult& res, double ms,
+            std::size_t max_iters, double tol)
 {
     for (std::size_t i = 0; i < path.size(); ++i)
         traj << opt << "," << fn << "," << i << "," << path[i].x << "," << path[i].y << "\n";
     bench << opt << "," << fn << "," << res.iterations << "," << res.final_grad_norm
           << "," << res.final_point.x << "," << res.final_point.y << "," << ms << "\n";
 
-    bool converged = res.final_grad_norm < 1e-6;
+    std::string stopping = (res.iterations >= max_iters) ? "max iterations reached"
+                         : (res.final_grad_norm < tol)   ? "tolerance reached"
+                                                         : "convergence";
     std::cout << "\n  [ " << opt << " ]\n";
-    std::cout << "    converged      : " << (converged ? "yes" : "no (hit max iterations)") << "\n";
+    std::cout << "    stopped due to     : " << stopping << "\n";
     std::cout << "    iterations     : " << res.iterations << "\n";
     std::cout << "    final point    : (" << res.final_point.x << ", " << res.final_point.y << ")\n";
-    std::cout << "    gradient norm  : " << res.final_grad_norm << (converged ? "  (below tolerance, solution found)" : "  (above tolerance, did not converge)") << "\n";
+    std::cout << "    gradient norm  : " << res.final_grad_norm << "\n";
     std::cout << "    time elapsed   : " << ms << " ms\n";
 }
 
@@ -76,7 +80,13 @@ int main() {
 
     std::size_t max_iters;
     std::cout << "max_iters: "; std::cin >> max_iters;
+
+    int tol_exp;
+    std::cout << "tolerance exponent (e.g. 5 means 1e-5) [default: 5]: ";
+    std::string tol_line;
     std::cin.ignore();
+    std::getline(std::cin, tol_line);
+    double tol = tol_line.empty() ? 1e-5 : std::pow(10.0, -std::stod(tol_line));
 
     const FnDef& f = fns[choice-1];
     std::cout << "\nstarting point (the initial guess where all optimizers begin):\n";
@@ -87,7 +97,6 @@ int main() {
     double alpha = prompt_double("  alpha (step size, how far to move each iteration)", f.default_alpha);
     double beta  = prompt_double("  beta  (momentum factor, how much to carry previous velocity)", 0.9);
 
-    const double tol = 1e-6;
     Vec2 init{sx, sy};
     std::string fn = f.name;
     auto gfn = f.grad;
@@ -95,7 +104,7 @@ int main() {
     std::cout << "\nrunning all three optimizers on '" << fn << "' "
               << "from (" << sx << ", " << sy << ") "
               << "for up to " << max_iters << " iterations...\n";
-    std::cout << "tolerance: gradient norm must fall below 1e-6 to be considered converged.\n";
+    std::cout << "tolerance: gradient norm must fall below " << tol << " to stop early.\n";
 
     std::ofstream traj("trajectory.csv");
     traj << "optimizer,function,iteration,x,y\n";
@@ -107,21 +116,21 @@ int main() {
         auto t0 = std::chrono::high_resolution_clock::now();
         auto res = gradient_descent(init, alpha, max_iters, tol, [&](Vec2 p){ path.push_back(p); return gfn(p); });
         double ms = std::chrono::duration<double,std::milli>(std::chrono::high_resolution_clock::now()-t0).count();
-        record(traj, bench, "vanilla gradient descent", fn, path, res, ms);
+        record(traj, bench, "vanilla gradient descent", fn, path, res, ms, max_iters, tol);
     }
     {
         std::vector<Vec2> path;
         auto t0 = std::chrono::high_resolution_clock::now();
         auto res = gradient_descent_momentum(init, alpha, beta, max_iters, tol, [&](Vec2 p){ path.push_back(p); return gfn(p); });
         double ms = std::chrono::duration<double,std::milli>(std::chrono::high_resolution_clock::now()-t0).count();
-        record(traj, bench, "gradient descent + momentum", fn, path, res, ms);
+        record(traj, bench, "gradient descent + momentum", fn, path, res, ms, max_iters, tol);
     }
     {
         std::vector<Vec2> path;
         auto t0 = std::chrono::high_resolution_clock::now();
         auto res = nesterov_momentum(init, alpha, beta, max_iters, tol, [&](Vec2 p){ path.push_back(p); return gfn(p); });
         double ms = std::chrono::duration<double,std::milli>(std::chrono::high_resolution_clock::now()-t0).count();
-        record(traj, bench, "nesterov momentum", fn, path, res, ms);
+        record(traj, bench, "nesterov momentum", fn, path, res, ms, max_iters, tol);
     }
 
     std::cout << "\ntrajectory written to trajectory.csv\n";
