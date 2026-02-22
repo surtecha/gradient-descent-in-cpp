@@ -1,7 +1,7 @@
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-import numpy as np
 
 traj = pd.read_csv("trajectory.csv")
 bench = pd.read_csv("results.csv")
@@ -17,9 +17,9 @@ functions = {
 }
 
 colors = {
-    "vanilla gradient descent":      "#00ffe0",
-    "gradient descent + momentum":   "#ffdd00",
-    "nesterov momentum":             "#ff6ec7",
+    "vanilla gradient descent":      "#e6550d",
+    "gradient descent + momentum":   "#756bb1",
+    "nesterov momentum":             "#31a354",
 }
 
 fn = functions[fn_name]
@@ -37,71 +37,86 @@ GX, GY = np.meshgrid(gx, gy)
 GZ = fn(GX, GY)
 
 fig, axes = plt.subplots(2, 2, figsize=(13, 10))
-fig.patch.set_facecolor("#0f0f0f")
-fig.suptitle(f"Gradient Descent Trajectories  ·  {fn_name}", color="white", fontsize=15, y=1.01)
+fig.patch.set_facecolor("white")
+fig.suptitle(f"Gradient Descent Trajectories  —  {fn_name}", fontsize=14, fontweight="bold")
 
 lines = {}
 dots  = {}
+counter_texts = {}
 
-for ax, opt in zip(axes.flat, optimizers):
-    ax.set_facecolor("#1a1a2e")
-    ax.contourf(GX, GY, np.log1p(GZ), levels=40, cmap="magma", alpha=0.85)
-    ax.contour( GX, GY, np.log1p(GZ), levels=20, colors="white", linewidths=0.3, alpha=0.3)
-    color = colors.get(opt, "white")
-    ax.set_title(opt, color=color, fontsize=10, pad=6)
-    ax.tick_params(colors="gray")
+for ax, opt in zip(axes.flat[:3], optimizers):
+    ax.set_facecolor("#f7f7f7")
+    ax.contourf(GX, GY, np.log1p(GZ), levels=40, cmap="Blues", alpha=0.75)
+    ax.contour( GX, GY, np.log1p(GZ), levels=20, colors="white", linewidths=0.4, alpha=0.6)
+    color = colors.get(opt, "#333")
+    ax.set_title(opt, fontsize=10, fontweight="semibold", color="#1a1a1a", pad=6)
+    ax.tick_params(colors="#555", labelsize=8)
     for spine in ax.spines.values():
-        spine.set_edgecolor("#333")
-    line, = ax.plot([], [], color=color, lw=1.5, alpha=0.95)
+        spine.set_edgecolor("#ccc")
+    line, = ax.plot([], [], color=color, lw=1.8)
     dot,  = ax.plot([], [], "o", color=color, ms=6)
-    ax.plot(paths[opt][0][0], paths[opt][0][1], "x", color="white", ms=8, mew=2)
+    ax.plot(paths[opt][0][0], paths[opt][0][1], "x", color="#333", ms=8, mew=2)
     ax.set_xlim(xmin, xmax)
     ax.set_ylim(ymin, ymax)
     lines[opt] = line
     dots[opt]  = dot
 
-for ax in axes.flat[len(optimizers):]:
-    ax.set_visible(False)
+ax4 = axes.flat[3]
+ax4.set_facecolor("#f7f7f7")
+ax4.set_xlim(0, 1)
+ax4.set_ylim(0, 1)
+ax4.axis("off")
+ax4.set_title("iteration counter", fontsize=10, fontweight="semibold", color="#1a1a1a", pad=6)
+
+for i, opt in enumerate(optimizers):
+    color = colors.get(opt, "#333")
+    y_pos = 0.72 - i * 0.28
+    ax4.text(0.08, y_pos + 0.10, opt, fontsize=9, color=color, fontweight="semibold", va="center")
+    txt = ax4.text(0.08, y_pos - 0.02, "iter: 0", fontsize=20, color=color, va="center", fontweight="bold")
+    counter_texts[opt] = txt
 
 max_frames = max(len(p) for p in paths.values())
 
-def animate(frame):
+def update(frame):
+    artists = []
     for opt, path in paths.items():
         i = min(frame, len(path) - 1)
         lines[opt].set_data(path[:i+1, 0], path[:i+1, 1])
         dots[opt].set_data([path[i, 0]], [path[i, 1]])
-    return list(lines.values()) + list(dots.values())
+        counter_texts[opt].set_text(f"iter: {i}")
+        artists += [lines[opt], dots[opt], counter_texts[opt]]
+    return artists
 
-ani = animation.FuncAnimation(fig, animate, frames=max_frames, interval=20, blit=True, repeat=False)
+ani = animation.FuncAnimation(fig, update, frames=max_frames, interval=20, blit=True, repeat=False)
 
 plt.tight_layout()
 plt.show()
 
 fig2, axes2 = plt.subplots(1, 2, figsize=(10, 5))
-fig2.patch.set_facecolor("#0f0f0f")
-fig2.suptitle(f"Benchmark Comparison  ·  {fn_name}", color="white", fontsize=14)
+fig2.patch.set_facecolor("white")
+fig2.suptitle(f"Benchmark Comparison  —  {fn_name}", fontsize=13, fontweight="bold")
 
 metrics = [
     ("iterations", "Iterations to converge"),
     ("time_ms",    "Time elapsed (ms)"),
 ]
 
-bar_colors = [colors.get(o, "#aaa") for o in bench["optimizer"]]
+bar_colors = [colors.get(o, "#888") for o in bench["optimizer"]]
 
 for ax, (col, label) in zip(axes2, metrics):
-    ax.set_facecolor("#1a1a2e")
-    bars = ax.bar(bench["optimizer"], bench[col], color=bar_colors, edgecolor="#333", width=0.5)
-    ax.set_title(label, color="white", fontsize=10)
-    ax.tick_params(colors="gray")
+    ax.set_facecolor("#f7f7f7")
+    bars = ax.bar(bench["optimizer"], bench[col], color=bar_colors, edgecolor="white", width=0.5)
+    ax.set_title(label, fontsize=10, fontweight="semibold", color="#1a1a1a")
+    ax.tick_params(colors="#555", labelsize=8)
     ax.set_xticks(range(len(bench["optimizer"])))
-    ax.set_xticklabels([o.replace(" ", "\n") for o in bench["optimizer"]], color="white", fontsize=7)
-    ax.yaxis.set_tick_params(labelcolor="gray")
+    ax.set_xticklabels([o.replace(" ", "\n") for o in bench["optimizer"]], fontsize=7, color="#1a1a1a")
+    ax.yaxis.set_tick_params(labelcolor="#555")
     for spine in ax.spines.values():
-        spine.set_edgecolor("#333")
+        spine.set_edgecolor("#ccc")
     for bar in bars:
         h = bar.get_height()
         ax.text(bar.get_x() + bar.get_width()/2, h * 1.02,
-                f"{h:.3g}", ha="center", va="bottom", color="white", fontsize=8)
+                f"{h:.3g}", ha="center", va="bottom", fontsize=8, color="#1a1a1a")
 
 plt.tight_layout()
 plt.show()
